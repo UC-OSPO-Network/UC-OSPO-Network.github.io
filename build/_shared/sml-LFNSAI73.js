@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/sml.js
 var require_sml = __commonJS({
@@ -79,4 +79,4 @@ var require_sml = __commonJS({
   }
 });
 export default require_sml();
-//# sourceMappingURL=/build/_shared/sml-LFNSAI73.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/sml-LFNSAI73.js.map

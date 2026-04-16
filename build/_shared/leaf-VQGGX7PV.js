@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/leaf.js
 var require_leaf = __commonJS({
@@ -50,4 +50,4 @@ var require_leaf = __commonJS({
   }
 });
 export default require_leaf();
-//# sourceMappingURL=/build/_shared/leaf-VQGGX7PV.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/leaf-VQGGX7PV.js.map

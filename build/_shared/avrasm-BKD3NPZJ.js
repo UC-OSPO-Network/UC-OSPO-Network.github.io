@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/avrasm.js
 var require_avrasm = __commonJS({
@@ -67,4 +67,4 @@ var require_avrasm = __commonJS({
   }
 });
 export default require_avrasm();
-//# sourceMappingURL=/build/_shared/avrasm-BKD3NPZJ.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/avrasm-BKD3NPZJ.js.map

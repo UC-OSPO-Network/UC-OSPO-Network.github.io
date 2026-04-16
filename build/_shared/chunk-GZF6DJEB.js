@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/coq.js
 var require_coq = __commonJS({
@@ -68,4 +68,4 @@ var require_coq = __commonJS({
 export {
   require_coq
 };
-//# sourceMappingURL=/build/_shared/chunk-GZF6DJEB.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-GZF6DJEB.js.map

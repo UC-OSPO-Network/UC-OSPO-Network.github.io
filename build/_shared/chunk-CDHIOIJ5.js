@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/mel.js
 var require_mel = __commonJS({
@@ -58,4 +58,4 @@ var require_mel = __commonJS({
 export {
   require_mel
 };
-//# sourceMappingURL=/build/_shared/chunk-CDHIOIJ5.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-CDHIOIJ5.js.map

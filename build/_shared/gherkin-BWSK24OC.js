@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/gherkin.js
 var gherkin;
@@ -124,4 +124,4 @@ init_gherkin();
 export {
   gherkin
 };
-//# sourceMappingURL=/build/_shared/gherkin-BWSK24OC.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/gherkin-BWSK24OC.js.map

@@ -1,9 +1,9 @@
 import {
   require_c
-} from "/build/_shared/chunk-Y5OVBNFJ.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-Y5OVBNFJ.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/hlsl.js
 var require_hlsl = __commonJS({
@@ -40,4 +40,4 @@ var require_hlsl = __commonJS({
 export {
   require_hlsl
 };
-//# sourceMappingURL=/build/_shared/chunk-D7TLKGZW.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-D7TLKGZW.js.map

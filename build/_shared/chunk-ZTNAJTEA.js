@@ -1,9 +1,9 @@
 import {
   require_csharp
-} from "/build/_shared/chunk-JWAGNOMV.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-JWAGNOMV.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/cshtml.js
 var require_cshtml = __commonJS({
@@ -129,4 +129,4 @@ var require_cshtml = __commonJS({
 export {
   require_cshtml
 };
-//# sourceMappingURL=/build/_shared/chunk-ZTNAJTEA.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-ZTNAJTEA.js.map

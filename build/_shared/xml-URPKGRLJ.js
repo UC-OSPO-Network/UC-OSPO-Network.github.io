@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/xml.js
 var require_xml = __commonJS({
@@ -254,4 +254,4 @@ var require_xml = __commonJS({
   }
 });
 export default require_xml();
-//# sourceMappingURL=/build/_shared/xml-URPKGRLJ.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/xml-URPKGRLJ.js.map

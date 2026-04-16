@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/xquery.js
 var require_xquery = __commonJS({
@@ -159,4 +159,4 @@ var require_xquery = __commonJS({
   }
 });
 export default require_xquery();
-//# sourceMappingURL=/build/_shared/xquery-4GTGNZHA.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/xquery-4GTGNZHA.js.map

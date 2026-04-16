@@ -1,16 +1,16 @@
 import {
   cytoscape as cytoscape2
-} from "/build/_shared/chunk-QKSCEHAD.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-QKSCEHAD.js";
 import {
   __name,
   log,
   select_default
-} from "/build/_shared/chunk-7PDOACA3.js";
-import "/build/_shared/chunk-2WW6JOYG.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-7PDOACA3.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-2WW6JOYG.js";
 import {
   __commonJS,
   __toESM
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/layout-base/layout-base.js
 var require_layout_base = __commonJS({
@@ -5059,4 +5059,4 @@ var render2 = render;
 export {
   render2 as render
 };
-//# sourceMappingURL=/build/_shared/cose-bilkent-S5V4N54A-ATQLGFTK.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/cose-bilkent-S5V4N54A-ATQLGFTK.js.map

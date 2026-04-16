@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/makefile.js
 var require_makefile = __commonJS({
@@ -46,4 +46,4 @@ var require_makefile = __commonJS({
 export {
   require_makefile
 };
-//# sourceMappingURL=/build/_shared/chunk-27VJNWHW.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-27VJNWHW.js.map

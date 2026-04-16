@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/gherkin.js
 var require_gherkin = __commonJS({
@@ -49,4 +49,4 @@ var require_gherkin = __commonJS({
   }
 });
 export default require_gherkin();
-//# sourceMappingURL=/build/_shared/gherkin-PAVW34OH.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/gherkin-PAVW34OH.js.map

@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/sas.js
 function define(style, string, context) {
@@ -224,4 +224,4 @@ init_sas();
 export {
   sas
 };
-//# sourceMappingURL=/build/_shared/sas-ULIOSCM3.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/sas-ULIOSCM3.js.map

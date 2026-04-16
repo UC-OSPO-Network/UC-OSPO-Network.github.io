@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/brainfuck.js
 var require_brainfuck = __commonJS({
@@ -46,4 +46,4 @@ var require_brainfuck = __commonJS({
   }
 });
 export default require_brainfuck();
-//# sourceMappingURL=/build/_shared/brainfuck-3OAN3GLN.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/brainfuck-3OAN3GLN.js.map

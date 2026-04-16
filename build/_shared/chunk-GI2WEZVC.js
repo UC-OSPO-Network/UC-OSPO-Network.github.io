@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/purebasic.js
 var require_purebasic = __commonJS({
@@ -74,4 +74,4 @@ var require_purebasic = __commonJS({
 export {
   require_purebasic
 };
-//# sourceMappingURL=/build/_shared/chunk-GI2WEZVC.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-GI2WEZVC.js.map

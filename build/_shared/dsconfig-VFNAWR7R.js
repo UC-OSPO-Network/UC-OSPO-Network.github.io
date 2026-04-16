@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/dsconfig.js
 var require_dsconfig = __commonJS({
@@ -64,4 +64,4 @@ var require_dsconfig = __commonJS({
   }
 });
 export default require_dsconfig();
-//# sourceMappingURL=/build/_shared/dsconfig-VFNAWR7R.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/dsconfig-VFNAWR7R.js.map

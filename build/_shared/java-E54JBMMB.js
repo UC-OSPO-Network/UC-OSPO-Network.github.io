@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/java.js
 var require_java = __commonJS({
@@ -175,4 +175,4 @@ var require_java = __commonJS({
   }
 });
 export default require_java();
-//# sourceMappingURL=/build/_shared/java-E54JBMMB.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/java-E54JBMMB.js.map

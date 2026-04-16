@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/x86asm.js
 var require_x86asm = __commonJS({
@@ -104,4 +104,4 @@ var require_x86asm = __commonJS({
   }
 });
 export default require_x86asm();
-//# sourceMappingURL=/build/_shared/x86asm-APHZLTJU.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/x86asm-APHZLTJU.js.map

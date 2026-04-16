@@ -1,6 +1,6 @@
 import {
   require_iecst
-} from "/build/_shared/chunk-O4WR24HB.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-O4WR24HB.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 export default require_iecst();
-//# sourceMappingURL=/build/_shared/iecst-6PZHIYXR.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/iecst-6PZHIYXR.js.map

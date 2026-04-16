@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/velocity.js
 function parseWords(str) {
@@ -161,4 +161,4 @@ init_velocity();
 export {
   velocity
 };
-//# sourceMappingURL=/build/_shared/velocity-FEDDLZ4R.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/velocity-FEDDLZ4R.js.map

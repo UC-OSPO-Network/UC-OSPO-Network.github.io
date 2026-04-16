@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/properties.js
 var require_properties = __commonJS({
@@ -25,4 +25,4 @@ var require_properties = __commonJS({
 export {
   require_properties
 };
-//# sourceMappingURL=/build/_shared/chunk-TK3MV2VO.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-TK3MV2VO.js.map

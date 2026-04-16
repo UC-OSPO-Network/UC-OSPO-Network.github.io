@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/haxe.js
 var require_haxe = __commonJS({
@@ -91,4 +91,4 @@ var require_haxe = __commonJS({
 export {
   require_haxe
 };
-//# sourceMappingURL=/build/_shared/chunk-RN3ZNWTZ.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-RN3ZNWTZ.js.map

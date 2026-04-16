@@ -4,8 +4,8 @@ import {
   json,
   jsonld,
   typescript
-} from "/build/_shared/chunk-5IUD4EPL.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-5IUD4EPL.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 init_javascript();
 export {
   javascript,
@@ -13,4 +13,4 @@ export {
   jsonld,
   typescript
 };
-//# sourceMappingURL=/build/_shared/javascript-UBDWB2KR.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/javascript-UBDWB2KR.js.map

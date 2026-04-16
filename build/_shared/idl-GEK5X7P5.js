@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/idl.js
 function wordRegexp(words) {
@@ -995,4 +995,4 @@ init_idl();
 export {
   idl
 };
-//# sourceMappingURL=/build/_shared/idl-GEK5X7P5.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/idl-GEK5X7P5.js.map

@@ -1,6 +1,6 @@
 import {
   require_cfscript
-} from "/build/_shared/chunk-IDYJEI4G.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-IDYJEI4G.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 export default require_cfscript();
-//# sourceMappingURL=/build/_shared/cfscript-BF4MOMRC.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/cfscript-BF4MOMRC.js.map

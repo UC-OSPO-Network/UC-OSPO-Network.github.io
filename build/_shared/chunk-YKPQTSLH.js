@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/tcl.js
 var require_tcl = __commonJS({
@@ -62,4 +62,4 @@ var require_tcl = __commonJS({
 export {
   require_tcl
 };
-//# sourceMappingURL=/build/_shared/chunk-YKPQTSLH.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-YKPQTSLH.js.map

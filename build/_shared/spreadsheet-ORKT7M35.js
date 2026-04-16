@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/spreadsheet.js
 var spreadsheet;
@@ -100,4 +100,4 @@ init_spreadsheet();
 export {
   spreadsheet
 };
-//# sourceMappingURL=/build/_shared/spreadsheet-ORKT7M35.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/spreadsheet-ORKT7M35.js.map

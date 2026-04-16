@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/troff.js
 function tokenBase(stream) {
@@ -71,4 +71,4 @@ init_troff();
 export {
   troff
 };
-//# sourceMappingURL=/build/_shared/troff-GQ2GNUXY.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/troff-GQ2GNUXY.js.map

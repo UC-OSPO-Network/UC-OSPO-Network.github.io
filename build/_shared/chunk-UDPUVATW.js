@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/bicep.js
 var require_bicep = __commonJS({
@@ -86,4 +86,4 @@ var require_bicep = __commonJS({
 export {
   require_bicep
 };
-//# sourceMappingURL=/build/_shared/chunk-UDPUVATW.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-UDPUVATW.js.map

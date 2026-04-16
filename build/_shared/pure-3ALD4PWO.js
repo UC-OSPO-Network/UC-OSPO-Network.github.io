@@ -1,6 +1,6 @@
 import {
   require_pure
-} from "/build/_shared/chunk-AOJIZIVT.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-AOJIZIVT.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 export default require_pure();
-//# sourceMappingURL=/build/_shared/pure-3ALD4PWO.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/pure-3ALD4PWO.js.map

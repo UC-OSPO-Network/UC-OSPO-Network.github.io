@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/arduino.js
 var require_arduino = __commonJS({
@@ -430,4 +430,4 @@ var require_arduino = __commonJS({
   }
 });
 export default require_arduino();
-//# sourceMappingURL=/build/_shared/arduino-ONLMH7IA.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/arduino-ONLMH7IA.js.map

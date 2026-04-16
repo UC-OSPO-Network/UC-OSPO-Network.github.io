@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/erb.js
 var require_erb = __commonJS({
@@ -25,4 +25,4 @@ var require_erb = __commonJS({
   }
 });
 export default require_erb();
-//# sourceMappingURL=/build/_shared/erb-2BQ4ROQY.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/erb-2BQ4ROQY.js.map

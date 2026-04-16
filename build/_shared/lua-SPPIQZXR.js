@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/lua.js
 var require_lua = __commonJS({
@@ -69,4 +69,4 @@ var require_lua = __commonJS({
   }
 });
 export default require_lua();
-//# sourceMappingURL=/build/_shared/lua-SPPIQZXR.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/lua-SPPIQZXR.js.map

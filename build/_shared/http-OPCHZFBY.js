@@ -1,6 +1,6 @@
 import {
   require_http
-} from "/build/_shared/chunk-5UROKY6S.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-5UROKY6S.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 export default require_http();
-//# sourceMappingURL=/build/_shared/http-OPCHZFBY.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/http-OPCHZFBY.js.map

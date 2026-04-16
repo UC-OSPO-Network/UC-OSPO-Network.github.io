@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/stex.js
 function mkStex(mathMode) {
@@ -240,4 +240,4 @@ export {
   stex,
   stexMath
 };
-//# sourceMappingURL=/build/_shared/stex-ESTQJC5R.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/stex-ESTQJC5R.js.map

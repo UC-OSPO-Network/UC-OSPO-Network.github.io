@@ -1,9 +1,9 @@
 import {
   require_csharp
-} from "/build/_shared/chunk-JWAGNOMV.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-JWAGNOMV.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/aspnet.js
 var require_aspnet = __commonJS({
@@ -72,4 +72,4 @@ var require_aspnet = __commonJS({
 export {
   require_aspnet
 };
-//# sourceMappingURL=/build/_shared/chunk-DRDLHXJJ.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-DRDLHXJJ.js.map

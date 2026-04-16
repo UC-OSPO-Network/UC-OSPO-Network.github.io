@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/haskell.js
 var require_haskell = __commonJS({
@@ -81,4 +81,4 @@ var require_haskell = __commonJS({
 export {
   require_haskell
 };
-//# sourceMappingURL=/build/_shared/chunk-SMNNMFAT.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-SMNNMFAT.js.map

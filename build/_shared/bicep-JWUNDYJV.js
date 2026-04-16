@@ -1,6 +1,6 @@
 import {
   require_bicep
-} from "/build/_shared/chunk-UDPUVATW.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-UDPUVATW.js";
+import "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 export default require_bicep();
-//# sourceMappingURL=/build/_shared/bicep-JWUNDYJV.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/bicep-JWUNDYJV.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/arff.js
 var require_arff = __commonJS({
@@ -26,4 +26,4 @@ var require_arff = __commonJS({
 export {
   require_arff
 };
-//# sourceMappingURL=/build/_shared/chunk-YWY7DOTY.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-YWY7DOTY.js.map

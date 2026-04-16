@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/asn1.js
 function words(str) {
@@ -171,4 +171,4 @@ init_asn1();
 export {
   asn1
 };
-//# sourceMappingURL=/build/_shared/asn1-DAP3NAU7.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/asn1-DAP3NAU7.js.map

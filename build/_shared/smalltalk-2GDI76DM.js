@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/smalltalk.js
 var specialChars, keywords, Context, Token, State, next, nextComment, nextString, nextSymbol, nextTemporaries, smalltalk;
@@ -130,4 +130,4 @@ init_smalltalk();
 export {
   smalltalk
 };
-//# sourceMappingURL=/build/_shared/smalltalk-2GDI76DM.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/smalltalk-2GDI76DM.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@braintree/sanitize-url/dist/constants.js
 var require_constants = __commonJS({
@@ -94,4 +94,4 @@ var require_dist = __commonJS({
 export {
   require_dist
 };
-//# sourceMappingURL=/build/_shared/chunk-6CUK2GM5.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-6CUK2GM5.js.map

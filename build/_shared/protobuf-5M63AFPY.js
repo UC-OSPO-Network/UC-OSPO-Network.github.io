@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/protobuf.js
 var require_protobuf = __commonJS({
@@ -49,4 +49,4 @@ var require_protobuf = __commonJS({
   }
 });
 export default require_protobuf();
-//# sourceMappingURL=/build/_shared/protobuf-5M63AFPY.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/protobuf-5M63AFPY.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/uc-ospo-network.github.io/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ebnf.js
 var require_ebnf = __commonJS({
@@ -36,4 +36,4 @@ var require_ebnf = __commonJS({
 export {
   require_ebnf
 };
-//# sourceMappingURL=/build/_shared/chunk-SBYSLBCI.js.map
+//# sourceMappingURL=/uc-ospo-network.github.io/build/_shared/chunk-SBYSLBCI.js.map
