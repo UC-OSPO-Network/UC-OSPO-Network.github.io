@@ -1,1 +1,1 @@
-import{a}from"/uc-ospo-network.github.io/build/_shared/chunk-SZAK5OLM.js";import"/uc-ospo-network.github.io/build/_shared/chunk-SWM73M5L.js";import"/uc-ospo-network.github.io/build/_shared/chunk-37MEAX4M.js";import"/uc-ospo-network.github.io/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/build/_shared/chunk-SZAK5OLM.js";import"/build/_shared/chunk-SWM73M5L.js";import"/build/_shared/chunk-37MEAX4M.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
