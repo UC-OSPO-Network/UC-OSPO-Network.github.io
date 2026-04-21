@@ -50,6 +50,9 @@
     <loc>http://localhost:3000/events/uc-open-2026</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/events/code-of-conduct</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/posts</loc>
   </url>
   <url>
