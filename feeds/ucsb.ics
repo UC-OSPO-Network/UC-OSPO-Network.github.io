@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UC OSPO Network//events//EN
+NAME:UC OSPO—UC Santa Barbara
+X-WR-CALNAME:UC OSPO—UC Santa Barbara
+BEGIN:VEVENT
+UID:ucsb:okq64v9fe2fj3eat4gv4odkb5j@google.com-2026-08-05T19:00:00.000Z
+SEQUENCE:0
+DTSTAMP:20260612T202832Z
+DTSTART:20260806T020000Z
+DTEND:20260806T040000Z
+SUMMARY:Open Source Meetup (Lounge)
+LOCATION:Library room 1411 (In the Sara Miller McCune Arts Library) AND ZO
+ OM
+DESCRIPTION:Join us for the "open source lounge"--a coworking space for wo
+ rking on our open source goals.\nThis is a hybrid meeting! Join us in the 
+ library or on Zoom: https://ucsb.zoom.us/j/87889247304
+URL;VALUE=URI:https://ucsb.zoom.us/j/87889247304
+END:VEVENT
+BEGIN:VEVENT
+UID:ucsb:okq64v9fe2fj3eat4gv4odkb5j@google.com-2026-09-02T19:00:00.000Z
+SEQUENCE:0
+DTSTAMP:20260612T202832Z
+DTSTART:20260903T020000Z
+DTEND:20260903T040000Z
+SUMMARY:Open Source Meetup (Lounge)
+LOCATION:Library room 1411 (In the Sara Miller McCune Arts Library) AND ZO
+ OM
+DESCRIPTION:Join us for the "open source lounge"--a coworking space for wo
+ rking on our open source goals.\nThis is a hybrid meeting! Join us in the 
+ library or on Zoom: https://ucsb.zoom.us/j/87889247304
+URL;VALUE=URI:https://ucsb.zoom.us/j/87889247304
+END:VEVENT
+BEGIN:VEVENT
+UID:ucsb:okq64v9fe2fj3eat4gv4odkb5j@google.com-2026-10-07T19:00:00.000Z
+SEQUENCE:0
+DTSTAMP:20260612T202832Z
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+SUMMARY:Open Source Meetup (Lounge)
+LOCATION:Library room 1411 (In the Sara Miller McCune Arts Library) AND ZO
+ OM
+DESCRIPTION:Join us for the "open source lounge"--a coworking space for wo
+ rking on our open source goals.\nThis is a hybrid meeting! Join us in the 
+ library or on Zoom: https://ucsb.zoom.us/j/87889247304
+URL;VALUE=URI:https://ucsb.zoom.us/j/87889247304
+END:VEVENT
+END:VCALENDAR
