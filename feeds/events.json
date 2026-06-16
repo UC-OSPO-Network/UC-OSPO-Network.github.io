@@ -169,6 +169,19 @@
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
   },
   {
+    "id": "berkeley:20260728T070000Z-321704@events.berkeley.edu",
+    "title": "Agentic AI for Science (AAI4Science) Developer Summit",
+    "start": "2026-07-28T00:00:00.000Z",
+    "end": "2026-07-29T00:00:00.000Z",
+    "allDay": true,
+    "url": "https://lightconeresearch.org/developer-summit",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab @ WeWork 2120 University Ave, 7th Floor, Berkeley, CA 94704",
+    "description": "The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.",
+    "descriptionHtml": "<p>The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.</p>"
+  },
+  {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-07-28T17:00:00.000Z",
     "title": "Office Hours (Tuesdays)",
     "start": "2026-07-29T00:00:00.000Z",
@@ -180,6 +193,45 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
+  },
+  {
+    "id": "berkeley:20260729T070000Z-321704@events.berkeley.edu",
+    "title": "Agentic AI for Science (AAI4Science) Developer Summit",
+    "start": "2026-07-29T00:00:00.000Z",
+    "end": "2026-07-30T00:00:00.000Z",
+    "allDay": true,
+    "url": "https://lightconeresearch.org/developer-summit",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab @ WeWork 2120 University Ave, 7th Floor, Berkeley, CA 94704",
+    "description": "The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.",
+    "descriptionHtml": "<p>The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.</p>"
+  },
+  {
+    "id": "berkeley:20260730T070000Z-321704@events.berkeley.edu",
+    "title": "Agentic AI for Science (AAI4Science) Developer Summit",
+    "start": "2026-07-30T00:00:00.000Z",
+    "end": "2026-07-31T00:00:00.000Z",
+    "allDay": true,
+    "url": "https://lightconeresearch.org/developer-summit",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab @ WeWork 2120 University Ave, 7th Floor, Berkeley, CA 94704",
+    "description": "The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.",
+    "descriptionHtml": "<p>The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.</p>"
+  },
+  {
+    "id": "berkeley:20260731T070000Z-321704@events.berkeley.edu",
+    "title": "Agentic AI for Science (AAI4Science) Developer Summit",
+    "start": "2026-07-31T00:00:00.000Z",
+    "end": "2026-08-01T00:00:00.000Z",
+    "allDay": true,
+    "url": "https://lightconeresearch.org/developer-summit",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab @ WeWork 2120 University Ave, 7th Floor, Berkeley, CA 94704",
+    "description": "The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.",
+    "descriptionHtml": "<p>The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.</p>"
   },
   {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-07-30T20:00:00.000Z",
@@ -429,6 +481,32 @@
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
   },
   {
+    "id": "berkeley:20260918T191500Z-323158@events.berkeley.edu",
+    "title": "Cultural Analytics Series: Aarthi Vadde",
+    "start": "2026-09-18T19:15:00.000Z",
+    "end": "2026-09-18T20:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/cultural-analytics-series-aarthi-vadde",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "210 South Hall and online",
+    "description": "Aarthi Vadde is an E. Blake Byrne Associate Professor of English at Duke University.",
+    "descriptionHtml": "<p>\n  Aarthi Vadde is an E. Blake Byrne Associate Professor of English at Duke University.\n</p>"
+  },
+  {
+    "id": "berkeley:20260918T213000Z-323159@events.berkeley.edu",
+    "title": "Discussion with Aarthi Vadde",
+    "start": "2026-09-18T21:30:00.000Z",
+    "end": "2026-09-18T23:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/discussion-aarthi-vadde",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab, Downtown Berkeley",
+    "description": "An in-person, collaborative deep dive with Cultural Analytics speaker Aarthi Vadde.",
+    "descriptionHtml": "<p>\n  An in-person, collaborative deep dive with Cultural Analytics speaker Aarthi Vadde.\n</p>"
+  },
+  {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-09-22T17:00:00.000Z",
     "title": "Office Hours (Tuesdays)",
     "start": "2026-09-23T00:00:00.000Z",
@@ -531,5 +609,44 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
+  },
+  {
+    "id": "berkeley:20261009T191500Z-323160@events.berkeley.edu",
+    "title": "Cultural Analytics Series: Maria Antoniak",
+    "start": "2026-10-09T19:15:00.000Z",
+    "end": "2026-10-09T20:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/cultural-analytics-series-maria-antoniak",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "210 South Hall and online",
+    "description": "Maria Antoniak is an assistant professor of computer science at the University of Colorado Boulder.",
+    "descriptionHtml": "<p>\n  Maria Antoniak is an assistant professor of computer science at the University of Colorado Boulder.\n</p>"
+  },
+  {
+    "id": "berkeley:20261009T213000Z-323161@events.berkeley.edu",
+    "title": "Discussion with Maria Antoniak",
+    "start": "2026-10-09T21:30:00.000Z",
+    "end": "2026-10-09T23:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/discussion-maria-antoniak",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab, Downtown Berkeley",
+    "description": "An in-person, collaborative deep dive with Cultural Analytics speaker Maria Antoniak.",
+    "descriptionHtml": "<p>\n  An in-person, collaborative deep dive with Cultural Analytics speaker Maria Antoniak.\n</p>"
+  },
+  {
+    "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-10-13T17:00:00.000Z",
+    "title": "Office Hours (Tuesdays)",
+    "start": "2026-10-14T00:00:00.000Z",
+    "end": "2026-10-14T00:30:00.000Z",
+    "allDay": false,
+    "url": "https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1",
+    "source": "network",
+    "sourceLabel": "UC OSPO Network",
+    "location": null,
+    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
+    "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
   }
 ]
