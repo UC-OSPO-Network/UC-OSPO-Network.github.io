@@ -59,6 +59,9 @@
     <loc>http://localhost:3000/posts</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/posts/survey-results</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/posts/repowise-announcement</loc>
   </url>
   <url>
