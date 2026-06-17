@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ucospo.net/</id>
     <title>UC OSPO Network</title>
-    <updated>2026-06-16T18:52:37.175Z</updated>
+    <updated>2026-06-17T01:19:03.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ucospo.net/"/>
     <link rel="self" href="https://ucospo.net/atom.xml"/>
@@ -16,6 +16,16 @@
         <summary type="html"><![CDATA[The UC OSPO Network's analysis of UC open source contributors is now published in PLOS One, alongside an infographic and project summary.]]></summary>
         <author>
             <name>Virginia Scarlett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Develop an Open Source Lesson with the UC OSPO Network]]></title>
+        <id>https://ucospo.net/posts/develop-open-source-lesson-cldt</id>
+        <link href="https://ucospo.net/posts/develop-open-source-lesson-cldt"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The UC OSPO Network is running four Carpentries Collaborative Lesson Development Training cohorts this summer and fall. We're looking for people to join an already-scoped lesson team or propose a new lesson.]]></summary>
+        <author>
+            <name>Tim Dennis</name>
         </author>
     </entry>
     <entry>
