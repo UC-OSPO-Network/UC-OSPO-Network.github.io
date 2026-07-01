@@ -17,6 +17,9 @@
     <loc>http://localhost:3000/about/contact</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/about/governance</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/about/guiding-themes</loc>
   </url>
   <url>
