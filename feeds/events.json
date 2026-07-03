@@ -1,31 +1,5 @@
 [
   {
-    "id": "network:30g9s6703bhvace5266q24ejiq@google.com-2026-06-04T17:00:00.000Z",
-    "title": "All-Campus Virtual OSPO Meetup",
-    "start": "2026-07-02T17:00:00.000Z",
-    "end": "2026-07-02T18:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "UC Davis hosts with a focus on PESOSE (formerly known as POSE)—the NSF program for building open source ecosystems—and its evolution into PESOSE. We'll look at how the program is structured, what's changed in how proposals are evaluated, and what that means for UC researchers thinking about applying, plus hear from researchers who've won these awards about what they've built. Speakers to be announced!\n\nWe’ll have two guest speakers:- Ana Lucia Cordova, Director of Strategic Initiatives and Research Funding, UC Davis Office of Research\n- Katia Obraczka, Professor of Computer Science and Engineering, UC Santa Cruz\nStudents, staff, faculty, researchers, and folks outside UC all welcome!\nRegister here: https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "descriptionHtml": "<p>UC Davis hosts with a focus on PESOSE (formerly known as POSE)—the NSF program for building open source ecosystems—and its evolution into PESOSE. We'll look at how the program is structured, what's changed in how proposals are evaluated, and what that means for UC researchers thinking about applying, plus hear from researchers who've won these awards about what they've built. Speakers to be announced!<br><br></p><br>We’ll have two guest speakers:<ul><li>Ana Lucia Cordova, Director of Strategic Initiatives and Research Funding, UC Davis Office of Research</li><li>Katia Obraczka, Professor of Computer Science and Engineering, UC Santa Cruz</li></ul><p>Students, staff, faculty, researchers, and folks outside UC all welcome!</p>Register here: <a href=\"https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1\" target=\"_blank\">https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1</a>"
-  },
-  {
-    "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-07-02T20:00:00.000Z",
-    "title": "Office Hours (Thursdays)",
-    "start": "2026-07-03T03:00:00.000Z",
-    "end": "2026-07-03T03:30:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
-    "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
-  },
-  {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-07-07T17:00:00.000Z",
     "title": "Office Hours (Tuesdays)",
     "start": "2026-07-08T00:00:00.000Z",
@@ -221,6 +195,19 @@
     "descriptionHtml": "<p>A monthly gathering for the UC open source community. Each meetup is co-hosted by a different campus in the network—the hosting campus sets the agenda for the first half (demos, workshops, guest speakers, whatever they want to share), and the second half is an open community call for network updates, project sharing, and Q&amp;A.</p><p><span>Students, staff, faculty, researchers, and folks outside UC all welcome!</span></p>Register here: <a href=\"https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1\" target=\"_blank\">https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1</a>"
   },
   {
+    "id": "berkeley:20260806T170000Z-323868@events.berkeley.edu",
+    "title": "OSPO All-Campus Virtual Meetup: August",
+    "start": "2026-08-06T17:00:00.000Z",
+    "end": "2026-08-06T18:00:00.000Z",
+    "allDay": false,
+    "url": "https://ucospo.net/events/",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "Zoom",
+    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
+    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
+  },
+  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-08-06T20:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2026-08-07T03:00:00.000Z",
@@ -336,6 +323,19 @@
     "location": "Library room 1411 (In the Sara Miller McCune Arts Library) AND ZOOM",
     "description": "Join us for the \"open source lounge\"--a coworking space for working on our open source goals.\nThis is a hybrid meeting! Join us in the library or on Zoom: https://ucsb.zoom.us/j/87889247304",
     "descriptionHtml": "Join us for the \"open source lounge\"--a coworking space for working on our open source goals.<br>This is a hybrid meeting! Join us in the library or on Zoom: <a href=\"https://ucsb.zoom.us/j/87889247304\">https://ucsb.zoom.us/j/87889247304</a>"
+  },
+  {
+    "id": "berkeley:20260903T170000Z-323869@events.berkeley.edu",
+    "title": "OSPO All-Campus Virtual Meetup: September",
+    "start": "2026-09-03T17:00:00.000Z",
+    "end": "2026-09-03T18:00:00.000Z",
+    "allDay": false,
+    "url": "https://ucospo.net/events/",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "Zoom",
+    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
+    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
   },
   {
     "id": "network:30g9s6703bhvace5266q24ejiq_R20260806T170000@google.com-2026-09-03T17:00:00.000Z",
@@ -479,6 +479,19 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
+  },
+  {
+    "id": "berkeley:20261001T170000Z-323870@events.berkeley.edu",
+    "title": "OSPO All-Campus Virtual Meetup: October",
+    "start": "2026-10-01T17:00:00.000Z",
+    "end": "2026-10-01T18:00:00.000Z",
+    "allDay": false,
+    "url": "https://ucospo.net/events/",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "Zoom",
+    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
+    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
   },
   {
     "id": "network:30g9s6703bhvace5266q24ejiq_R20260806T170000@google.com-2026-10-01T17:00:00.000Z",
@@ -648,5 +661,31 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
+  },
+  {
+    "id": "berkeley:20261030T191500Z-323162@events.berkeley.edu",
+    "title": "Cultural Analytics Series: Mads Rosendahl Thomsen",
+    "start": "2026-10-30T19:15:00.000Z",
+    "end": "2026-10-30T20:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/cultural-analytics-series-mads-rosendahl-thomsen",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "210 South Hall and online",
+    "description": "Mads Rosendahl Thomsen is professor of comparative literature at Aarhus University, Denmark.",
+    "descriptionHtml": "<p>\n  Mads Rosendahl Thomsen is professor of comparative literature at Aarhus University, Denmark.\n</p>"
+  },
+  {
+    "id": "berkeley:20261030T213000Z-323163@events.berkeley.edu",
+    "title": "Discussion with Mads Rosendahl Thomsen",
+    "start": "2026-10-30T21:30:00.000Z",
+    "end": "2026-10-30T23:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/discussion-mads-rosendahl-thomsen",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab, Downtown Berkeley",
+    "description": "An in-person, collaborative deep dive with Cultural Analytics speaker Mads Rosendahl Thomsen.",
+    "descriptionHtml": "<p>\n  An in-person, collaborative deep dive with Cultural Analytics speaker Mads Rosendahl Thomsen.\n</p>"
   }
 ]
