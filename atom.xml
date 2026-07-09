@@ -2,12 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ucospo.net/</id>
     <title>UC OSPO Network</title>
-    <updated>2026-07-09T15:24:19.887Z</updated>
+    <updated>2026-07-09T19:38:12.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ucospo.net/"/>
     <link rel="self" href="https://ucospo.net/atom.xml"/>
     <subtitle>News and updates from the UC Open Source Program Office Network</subtitle>
     <rights>UC OSPO Network 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[New Sloan Grant Keeps the UC OSPO Network Building Toward Long-Term Sustainability]]></title>
+        <id>https://ucospo.net/posts/sloan-sustainability-grant</id>
+        <link href="https://ucospo.net/posts/sloan-sustainability-grant"/>
+        <updated>2026-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Alfred P. Sloan Foundation grant funds the next phase of the UC OSPO Network: permanent footing, plus growth across shared services, education, events, and open dissemination.]]></summary>
+        <author>
+            <name>Laura Langdon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Open Source Survey Analysis Is Live on PLOS One]]></title>
         <id>https://ucospo.net/posts/survey-results</id>
