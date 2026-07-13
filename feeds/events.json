@@ -726,5 +726,31 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
+  },
+  {
+    "id": "berkeley:20261109T201500Z-323164@events.berkeley.edu",
+    "title": "Cultural Analytics Series: Meredith Martin & Wouter Haverals",
+    "start": "2026-11-09T20:15:00.000Z",
+    "end": "2026-11-09T21:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/cultural-analytics-series-meredith-martin-wouter-haverals",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "210 South Hall and online",
+    "description": "Meredith Martin is a professor of English and faculty director of the Center for Digital Humanities at Princeton. Wouter Haverals is an associate research scholar at the Center for Digital Humanities and a Perkins Fellow at the Humanities Council at Princeton University.",
+    "descriptionHtml": "<p>\n  Meredith Martin is a professor of English and faculty director of the Center for Digital Humanities at Princeton. Wouter Haverals is an associate research scholar at the Center for Digital Humanities and a Perkins Fellow at the Humanities Council at Princeton University.\n</p>"
+  },
+  {
+    "id": "berkeley:20261109T223000Z-323165@events.berkeley.edu",
+    "title": "Discussion with Meredith Martin & Wouter Haverals",
+    "start": "2026-11-09T22:30:00.000Z",
+    "end": "2026-11-10T00:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.ischool.berkeley.edu/events/2026/discussion-meredith-martin-wouter-haverals",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "AI Futures Lab, Downtown Berkeley",
+    "description": "An in-person, collaborative deep dive with Cultural Analytics speaker Mads Rosendahl Thomsen.",
+    "descriptionHtml": "<p>\n  An in-person, collaborative deep dive with Cultural Analytics speaker Mads Rosendahl Thomsen.\n</p>"
   }
 ]
