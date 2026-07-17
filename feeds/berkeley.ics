@@ -6,7 +6,7 @@ X-WR-CALNAME:UC OSPO—UC Berkeley (BIDS)
 BEGIN:VEVENT
 UID:berkeley:20260728T070000Z-321704@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260729T070000Z-321704@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260730T070000Z-321704@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260731T070000Z-321704@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260806T170000Z-323868@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20260806T170000Z
 DTEND:20260806T180000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: AI in OSS
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260903T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -117,27 +117,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260903T170000Z-323869@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20260903T170000Z
 DTEND:20260903T180000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: September
@@ -155,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260903T230000Z-324439@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20260903T230000Z
 DTEND:20260904T013000Z
 SUMMARY:Exhibition Opening Reception: "Hidden Layers: AI Infrastructures a
@@ -179,27 +185,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFA&#160\;Workshop on L
+ atent Spaces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am
+ -4pm on both days\, 470 Stephens&#160\;Additional events and more details 
+ to be announced. Times subject to change\, please also check the campus ca
+ lendar. The exhibition is supported by the France-Berkeley Fund of the Ins
+ titute of European Studies\, the Department of German and the Department o
+ f Art Practice\, together with the Berkeley Center for New Media\, the Ber
+ keley Institute for Data Science (BIDS)\, Department of Film & Media\, Dep
+ artment of Rhetoric\; Antikythera\, the Townsend Center for the Humanities
+  and the School of Information\, the Technology Network of the Berkeley Ec
+ onomy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Fin
+ ance Project\, hosted by the Berkeley Center for Law and Business at Berke
+ ley Law. In conjunction with the exhibition\, additional programming is de
+ veloped in collaboration with Berkeley Art Museum and Pacific Film Archive
+  (BAMPFA) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/323504-exhibition-op
  ening-reception-hidden-layers-ai-infrast
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260904T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -224,27 +236,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260905T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -269,27 +287,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260906T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -314,27 +338,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260907T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -359,27 +389,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260908T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -404,27 +440,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260909T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -449,27 +491,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260910T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -494,27 +542,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260911T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -539,27 +593,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260912T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -584,27 +644,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260913T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -629,27 +695,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260914T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -674,27 +746,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260915T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -719,27 +797,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260916T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -764,27 +848,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260917T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -809,27 +899,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260918T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -854,27 +950,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260918T191500Z-323158@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20260918T191500Z
 DTEND:20260918T203000Z
 SUMMARY:Cultural Analytics Series: Aarthi Vadde
@@ -887,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260918T213000Z-323159@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20260918T213000Z
 DTEND:20260918T233000Z
 SUMMARY:Discussion with Aarthi Vadde
@@ -900,7 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260919T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -925,27 +1027,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260920T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -970,27 +1078,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260921T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1015,27 +1129,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260922T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1060,27 +1180,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260923T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1105,27 +1231,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260924T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1150,27 +1282,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260925T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1195,27 +1333,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260926T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1240,27 +1384,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260927T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1285,27 +1435,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260928T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1330,27 +1486,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260929T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1375,27 +1537,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20260930T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1420,27 +1588,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261001T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1465,27 +1639,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261001T170000Z-323870@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261001T170000Z
 DTEND:20261001T180000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: October
@@ -1503,7 +1683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261002T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1528,27 +1708,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261003T070000Z-324438@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1573,27 +1759,33 @@ DESCRIPTION:The Department of German and the Department of Art Practice ar
  l. The project is a collaboration between the Department of German and the
   Worth Ryder Art Gallery at the Department of Art Practice.Exhibition Date
  s: September 3 - October 3\, 2026Opening Reception: Thursday\, September 3
- \, 4-6:30pm\, Worth Ryder Art GalleryArtist Talk\, Gregory Chatonsky: Thur
- sday\, September 3\, 6:30-8:00pm\, AAPB 285Additional events and more deta
- ils to be announced. Times subject to change\, please also check the campu
- s calendar. The exhibition is supported by the France-Berkeley Fund of the
-  Institute of European Studies\, the Department of German and the Departme
- nt of Art Practice\, together with the Berkeley Center for New Media\, the
-  Berkeley Institute for Data Science (BIDS)\, Department of Film & Media\,
-  Department of Rhetoric\; Antikythera\, the Townsend Center for the Humani
- ties and the School of Information\, the Technology Network of the Berkele
- y Economy and Society Initiative (BESI)\; and the Berkeley Art\, Law\, and
-  Finance Project\, hosted by the Berkeley Center for Law and Business at B
- erkeley Law. In conjunction with the exhibition\, additional programming i
- s developed in collaboration with Berkeley Art Museum and Pacific Film Arc
- hive (BAMPFA) and the Institute for Contemporary Art San José.
+ \, 4-6:30pm\, Worth Ryder Art Gallery RSVP here (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd_OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform
+ ?usp=dialog)Artist Talk\, Gregory Chatonsky: Thursday\, September 3\, 6:30
+ -8:00pm\, AAPB 285 RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSd_
+ OOMe7YQHw3CYbSr673UCSlQ0f4mn4lZ7g46KhRUTRpC5qQ/viewform?usp=dialog)Related
+  programming:Film Program: September 9\, 7 pm\, BAMPFAWorkshop on Latent S
+ paces of Culture: September 9\, 2pm-4pm\; September 10/11\, 9:30 am-4pm on
+  both days\, 470 Stephens&#160\;Additional events and more details to be a
+ nnounced. Times subject to change\, please also check the campus calendar.
+  The exhibition is supported by the France-Berkeley Fund of the Institute 
+ of European Studies\, the Department of German and the Department of Art P
+ ractice\, together with the Berkeley Center for New Media\, the Berkeley I
+ nstitute for Data Science (BIDS)\, Department of Film & Media\, Department
+  of Rhetoric\; Antikythera\, the Townsend Center for the Humanities and th
+ e School of Information\, the Technology Network of the Berkeley Economy a
+ nd Society Initiative (BESI)\; and the Berkeley Art\, Law\, and Finance Pr
+ oject\, hosted by the Berkeley Center for Law and Business at Berkeley Law
+ . In conjunction with the exhibition\, additional programming is developed
+  in collaboration with Berkeley Art Museum and Pacific Film Archive (BAMPF
+ A) and the Institute for Contemporary Art San José.
 URL;VALUE=URI:https://events.berkeley.edu/live/events/324408-exhibition-hi
  dden-layers-ai-infrastructures-and-hallu
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261009T191500Z-323160@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261009T191500Z
 DTEND:20261009T203000Z
 SUMMARY:Cultural Analytics Series: Maria Antoniak
@@ -1606,7 +1798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261009T213000Z-323161@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261009T213000Z
 DTEND:20261009T233000Z
 SUMMARY:Discussion with Maria Antoniak
@@ -1619,7 +1811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261030T191500Z-323162@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261030T191500Z
 DTEND:20261030T203000Z
 SUMMARY:Cultural Analytics Series: Mads Rosendahl Thomsen
@@ -1632,7 +1824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261030T213000Z-323163@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261030T213000Z
 DTEND:20261030T233000Z
 SUMMARY:Discussion with Mads Rosendahl Thomsen
@@ -1645,7 +1837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261105T180000Z-323871@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261105T180000Z
 DTEND:20261105T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: November
@@ -1663,7 +1855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261109T201500Z-323164@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261109T201500Z
 DTEND:20261109T213000Z
 SUMMARY:Cultural Analytics Series: Meredith Martin & Wouter Haverals
@@ -1678,7 +1870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261109T223000Z-323165@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20260716T140806Z
+DTSTAMP:20260717T031941Z
 DTSTART:20261109T223000Z
 DTEND:20261110T003000Z
 SUMMARY:Discussion with Meredith Martin & Wouter Haverals
