@@ -86,6 +86,9 @@
     <loc>http://localhost:3000/posts</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/posts/ospo-meetup-2026-07-02</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/posts/sloan-sustainability-grant</loc>
   </url>
   <url>
