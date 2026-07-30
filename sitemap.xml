@@ -143,6 +143,9 @@
     <loc>http://localhost:3000/oss-resources/template-guides/license-guide</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/oss-resources/template-guides/citation-guide</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/oss-resources/survey</loc>
   </url>
 </urlset>
