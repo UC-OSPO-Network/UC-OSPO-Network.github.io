@@ -1,18 +1,5 @@
 [
   {
-    "id": "berkeley:20260729T070000Z-321704@events.berkeley.edu",
-    "title": "Agentic AI for Science (AAI4Science) Developer Summit",
-    "start": "2026-07-29T00:00:00.000Z",
-    "end": "2026-07-30T00:00:00.000Z",
-    "allDay": true,
-    "url": "https://lightconeresearch.org/developer-summit",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "AI Futures Lab @ WeWork 2120 University Ave, 7th Floor, Berkeley, CA 94704",
-    "description": "The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.",
-    "descriptionHtml": "<p>The first Agentic AI for Science (AAI4Science) Developer Summit: Bringing together about 30 people from diverse backgrounds to lay the foundations for an open-source ecosystem of AI-powered tools for scientific research.</p>"
-  },
-  {
     "id": "berkeley:20260730T070000Z-321704@events.berkeley.edu",
     "title": "Agentic AI for Science (AAI4Science) Developer Summit",
     "start": "2026-07-30T00:00:00.000Z",
