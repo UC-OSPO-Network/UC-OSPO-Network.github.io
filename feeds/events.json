@@ -104,6 +104,19 @@
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
   },
   {
+    "id": "berkeley:20260825T210000Z-325253@events.berkeley.edu",
+    "title": "Gateway Open House",
+    "start": "2026-08-25T21:00:00.000Z",
+    "end": "2026-08-25T22:00:00.000Z",
+    "allDay": false,
+    "url": "https://events.berkeley.edu/live/events/325131-gateway-open-house",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "2300 Hearst Ave",
+    "description": "Join us for an open house at the new Barbara and Gerson Bakar Gateway building on the UC Berkeley campus. Explore our innovative spaces, connect with the campus community, and experience the new home of the College of Computing, Data Science, and Society (CDSS). We look forward to welcoming you! Please share this with colleagues and students who may be interested to attend.Tuesday, August 25 2:00 - 4:00 p.m.Barbara and Gerson Bakar Gateway 2300 Hearst Ave., BerkeleyRegister to attend",
+    "descriptionHtml": "Join us for an open house at the new Barbara and Gerson Bakar Gateway building on the UC Berkeley campus. Explore our innovative spaces, connect with the campus community, and experience the new home of the College of Computing, Data Science, and Society (CDSS).  We look forward to welcoming you! Please share this with colleagues and students who may be interested to attend.Tuesday, August 25  2:00 - 4:00 p.m.Barbara and Gerson Bakar Gateway  2300 Hearst Ave., BerkeleyRegister to attend"
+  },
+  {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-08-25T17:00:00.000Z",
     "title": "Office Hours (Tuesdays)",
     "start": "2026-08-26T00:00:00.000Z",
@@ -1064,5 +1077,18 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
+  },
+  {
+    "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-12-01T18:00:00.000Z",
+    "title": "Office Hours (Tuesdays)",
+    "start": "2026-12-02T02:00:00.000Z",
+    "end": "2026-12-02T02:30:00.000Z",
+    "allDay": false,
+    "url": "https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1",
+    "source": "network",
+    "sourceLabel": "UC OSPO Network",
+    "location": null,
+    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
+    "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
   }
 ]
