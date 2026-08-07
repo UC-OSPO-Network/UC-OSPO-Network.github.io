@@ -1,44 +1,5 @@
 [
   {
-    "id": "network:30g9s6703bhvace5266q24ejiq_R20260806T170000@google.com-2026-08-06T17:00:00.000Z",
-    "title": "All-Campus Virtual OSPO Meetup",
-    "start": "2026-08-06T17:00:00.000Z",
-    "end": "2026-08-06T18:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "UC Santa Barbara is hosting this month, with a focus on how AI is changing open source workflows. We'll look at where AI tools are showing up across the open source lifecycle—writing and reviewing code, documentation, maintenance, and community work—and chat about what we find is actually useful, where the friction is, and what it means for maintainers and researchers working in the open.\nWe'll have two guest speakers:\n- Rachel King, NCEAS, UC Santa Barbara\n- Carlo Broderick, NCEAS, UC Santa Barbara\n\nStudents, staff, faculty, researchers, and folks outside UC all welcome!\nRegister here: https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "descriptionHtml": "<p>UC Santa Barbara is hosting this month, with a focus on how AI is changing open source workflows. We'll look at where AI tools are showing up across the open source lifecycle—writing and reviewing code, documentation, maintenance, and community work—and chat about what we find is actually useful, where the friction is, and what it means for maintainers and researchers working in the open.</p><p>We'll have two guest speakers:</p><ul><li>Rachel King, NCEAS, UC Santa Barbara</li><li>Carlo Broderick, NCEAS, UC Santa Barbara</li></ul><p></p><p><span>Students, staff, faculty, researchers, and folks outside UC all welcome!</span></p>Register here: <a href=\"https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1\" target=\"_blank\">https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1</a>"
-  },
-  {
-    "id": "berkeley:20260806T170000Z-323868@events.berkeley.edu",
-    "title": "OSPO All-Campus Virtual Meetup: AI in OSS",
-    "start": "2026-08-06T17:00:00.000Z",
-    "end": "2026-08-06T18:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucospo.net/events/",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "Zoom",
-    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
-    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
-  },
-  {
-    "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-08-06T20:00:00.000Z",
-    "title": "Office Hours (Thursdays)",
-    "start": "2026-08-07T03:00:00.000Z",
-    "end": "2026-08-07T03:30:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
-    "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
-  },
-  {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-08-11T17:00:00.000Z",
     "title": "Office Hours (Tuesdays)",
     "start": "2026-08-12T00:00:00.000Z",
