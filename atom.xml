@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ucospo.net/</id>
     <title>UC OSPO Network</title>
-    <updated>2026-08-20T12:59:57.974Z</updated>
+    <updated>2026-08-20T19:25:48.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ucospo.net/"/>
     <link rel="self" href="https://ucospo.net/atom.xml"/>
@@ -10,8 +10,8 @@
     <rights>UC OSPO Network 2026</rights>
     <entry>
         <title type="html"><![CDATA[A New Chapter for UC Open Source: Highlights from the First All-Campus Virtual Meetup]]></title>
-        <id>https://ucospo.net/posts/OSPO-meetup-2026-07-02</id>
-        <link href="https://ucospo.net/posts/OSPO-meetup-2026-07-02"/>
+        <id>https://ucospo.net/posts/ospo-meetup-2026-07-02</id>
+        <link href="https://ucospo.net/posts/ospo-meetup-2026-07-02"/>
         <updated>2026-07-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recap for the July 02 UC OSPO All-Campus Virtual Meetup]]></summary>
         <author>
