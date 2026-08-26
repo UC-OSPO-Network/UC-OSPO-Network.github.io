@@ -38,6 +38,24 @@
     <loc>http://localhost:3000/about/get-involved/working-groups</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/about/get-involved/working-groups/discovery</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about/get-involved/working-groups/sustainability-playbook</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about/get-involved/working-groups/oss-licensing</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about/get-involved/working-groups/education</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about/get-involved/working-groups/uc-open-steering-committee</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about/get-involved/working-groups/high-level-outreach</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/about/contact</loc>
   </url>
   <url>
