@@ -1142,5 +1142,18 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
+  },
+  {
+    "id": "network:62bcaqddjdua8t2qchic5ho2a7@google.com-2026-12-23T19:00:00.000Z",
+    "title": "OSPO Network Alignment Group Meeting",
+    "start": "2026-12-24T03:00:00.000Z",
+    "end": "2026-12-24T04:00:00.000Z",
+    "allDay": false,
+    "url": "https://ucsb.zoom.us/j/87582153282",
+    "source": "network",
+    "sourceLabel": "UC OSPO Network",
+    "location": null,
+    "description": "https://ucsb.zoom.us/j/87582153282\n\nThe UC OSPO Network Alignment Group Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Meetings are open to anyone in the UC open source community. Working-group delegates are asked to attend, and everyone else is welcome to join and listen in. Learn more at ucospo.net.\n \nAlignment Group running notes doc",
+    "descriptionHtml": "<a href=\"https://ucsb.zoom.us/j/87582153282\" target=\"_blank\">https://ucsb.zoom.us/j/87582153282</a><br><br>The UC OSPO Network Alignment Group Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Meetings are open to anyone in the UC open source community. Working-group delegates are asked to attend, and everyone else is welcome to join and listen in. Learn more at <a href=\"http://ucospo.net\" target=\"_blank\">ucospo.net</a>.<br> <br><a href=\"https://docs.google.com/document/d/1lvn1scs_i78Xqzlg_RgX0zgD1TkNR8sXdahpfCsTuqk/edit?tab=t.0\">Alignment Group running notes doc</a>"
   }
 ]
