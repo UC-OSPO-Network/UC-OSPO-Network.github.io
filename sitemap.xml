@@ -86,9 +86,6 @@
     <loc>http://localhost:3000/santa-barbara</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/santa-barbara/ucsb-projects/meetup</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/news</loc>
   </url>
   <url>

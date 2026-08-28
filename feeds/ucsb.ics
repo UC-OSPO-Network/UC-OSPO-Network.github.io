@@ -6,7 +6,7 @@ X-WR-CALNAME:UC OSPO—UC Santa Barbara
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-10-01T21:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261002T043000Z
 DTEND:20261002T063000Z
 SUMMARY:Open Source Lounge
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-10-08T21:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261009T043000Z
 DTEND:20261009T063000Z
 SUMMARY:Open Source Lounge
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-10-15T21:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261016T043000Z
 DTEND:20261016T063000Z
 SUMMARY:Open Source Lounge
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-10-22T21:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261023T043000Z
 DTEND:20261023T063000Z
 SUMMARY:Open Source Lounge
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-10-29T21:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261030T043000Z
 DTEND:20261030T063000Z
 SUMMARY:Open Source Lounge
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-11-05T22:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261106T063000Z
 DTEND:20261106T083000Z
 SUMMARY:Open Source Lounge
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-11-12T22:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261113T063000Z
 DTEND:20261113T083000Z
 SUMMARY:Open Source Lounge
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-11-19T22:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261120T063000Z
 DTEND:20261120T083000Z
 SUMMARY:Open Source Lounge
@@ -140,26 +140,9 @@ URL;VALUE=URI:https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247
  6ydJ
 END:VEVENT
 BEGIN:VEVENT
-UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-11-26T22:30:00.000Z
-SEQUENCE:0
-DTSTAMP:20260828T105430Z
-DTSTART:20261127T063000Z
-DTEND:20261127T083000Z
-SUMMARY:Open Source Lounge
-DESCRIPTION:The Open Source Lounge is a co-working space for working on ou
- r open source goals in a supportive\, motivating environment. This is a hy
- brid meeting open to students\, faculty\, and staff. Light refreshments ar
- e served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts li
- brary (Library room 1411\, mountain side)\nZoom: https://ucsb.zoom.us/j/8
- 7889247304\nThursdays\, 2:30-4:30pm
-URL;VALUE=URI:https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247
- 304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg
- 6ydJ
-END:VEVENT
-BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-12-03T22:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261204T063000Z
 DTEND:20261204T083000Z
 SUMMARY:Open Source Lounge
@@ -176,43 +159,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-12-10T22:30:00.000Z
 SEQUENCE:0
-DTSTAMP:20260828T105430Z
+DTSTAMP:20260828T213704Z
 DTSTART:20261211T063000Z
 DTEND:20261211T083000Z
-SUMMARY:Open Source Lounge
-DESCRIPTION:The Open Source Lounge is a co-working space for working on ou
- r open source goals in a supportive\, motivating environment. This is a hy
- brid meeting open to students\, faculty\, and staff. Light refreshments ar
- e served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts li
- brary (Library room 1411\, mountain side)\nZoom: https://ucsb.zoom.us/j/8
- 7889247304\nThursdays\, 2:30-4:30pm
-URL;VALUE=URI:https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247
- 304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg
- 6ydJ
-END:VEVENT
-BEGIN:VEVENT
-UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-12-17T22:30:00.000Z
-SEQUENCE:0
-DTSTAMP:20260828T105430Z
-DTSTART:20261218T063000Z
-DTEND:20261218T083000Z
-SUMMARY:Open Source Lounge
-DESCRIPTION:The Open Source Lounge is a co-working space for working on ou
- r open source goals in a supportive\, motivating environment. This is a hy
- brid meeting open to students\, faculty\, and staff. Light refreshments ar
- e served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts li
- brary (Library room 1411\, mountain side)\nZoom: https://ucsb.zoom.us/j/8
- 7889247304\nThursdays\, 2:30-4:30pm
-URL;VALUE=URI:https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247
- 304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg
- 6ydJ
-END:VEVENT
-BEGIN:VEVENT
-UID:ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-12-24T22:30:00.000Z
-SEQUENCE:0
-DTSTAMP:20260828T105430Z
-DTSTART:20261225T063000Z
-DTEND:20261225T083000Z
 SUMMARY:Open Source Lounge
 DESCRIPTION:The Open Source Lounge is a co-working space for working on ou
  r open source goals in a supportive\, motivating environment. This is a hy
