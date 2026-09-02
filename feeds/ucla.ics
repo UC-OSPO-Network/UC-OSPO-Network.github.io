@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UC OSPO Network//events//EN
+NAME:UC OSPO—UCLA
+X-WR-CALNAME:UC OSPO—UCLA
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385201
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260908T153000Z
+DTEND:20260908T193000Z
+SUMMARY:UC Carpentries: Tidy Data
+DESCRIPTION:Clean\, transform\, and track changes to data.\n\nThis worksho
+ p is free\, and participants can register for individual topics or the ent
+ ire series. View the complete schedule and register.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385201
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385235
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260909T153000Z
+DTEND:20260909T193000Z
+SUMMARY:UC Carpentries: Command Line & Unix Shell
+DESCRIPTION:Learn the basics of command line interface and navigating with
+ in files and directories.\n\nThis workshop is free and participants can re
+ gister for individual topics or the entire series. View the complete sched
+ ule and register.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385235
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385291
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260910T153000Z
+DTEND:20260910T193000Z
+SUMMARY:UC Carpentries: Version Control with Git
+DESCRIPTION:Manage work\, edit code\, and collaborate on a team project in
+  a repository.\n\nThis workshop is free\, and participants can register fo
+ r individual topics or the entire series. View the complete schedule and r
+ egister.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385291
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385215
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260911T153000Z
+DTEND:20260911T193000Z
+SUMMARY:UC Carpentries: Data Cleaning with OpenRefine
+DESCRIPTION:This workshop is free and participants can register for indivi
+ dual session topics or the entire series.\n\nThis workshop is free\, and p
+ articipants can register for individual topics or the entire series. View 
+ the complete schedule and register.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385215
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385305
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260915T153000Z
+DTEND:20260915T193000Z
+SUMMARY:UC Carpentries: Python Part 1
+DESCRIPTION:Learn basic coding\, data access and data analysis functions u
+ sing Jupyter Notebook.\n\nThis workshop is free\, and participants can reg
+ ister for individual topics or the entire series. View the complete schedu
+ le and register.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385305
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385595
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260915T153000Z
+DTEND:20260915T193000Z
+SUMMARY:UC Carpentries: R Part 1
+DESCRIPTION:Learn basic coding\, data access\, and data analysis using R a
+ nd RStudio.\n\nThis workshop is free\, and participants can register for i
+ ndividual topics or the entire series. View the complete schedule and regi
+ ster.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385595
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385319
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260916T153000Z
+DTEND:20260916T193000Z
+SUMMARY:UC Carpentries: Python Part 2
+DESCRIPTION:Learn basic coding\, data access and data analysis functions u
+ sing Jupyter Notebook.\n\nThis workshop is free\, and participants can reg
+ ister for individual topics or the entire series. View the complete schedu
+ le and register.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385319
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17385971
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260916T153000Z
+DTEND:20260916T193000Z
+SUMMARY:UC Carpentries: R Part 2
+DESCRIPTION:Learn basic coding\, data access\, and data analysis using R a
+ nd RStudio.\n\nThis workshop is free\, and participants can register for i
+ ndividual topics or the entire series. View the complete schedule and regi
+ ster.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385971
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17386215
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20260923T153000Z
+DTEND:20260923T193000Z
+SUMMARY:UC Carpentries: Core Elements of Citable and Discoverable Research
+  Software
+DESCRIPTION:Learn practical steps for making research software citable\, d
+ iscoverable\, and reusable. Working in your browser with a GitHub reposito
+ ry\, you will add an open-source license\, create a CITATION.cff file\, ma
+ ke a versioned release with a DOI and improve project documentation and me
+ tadata. This hands-on workshop is designed for researchers and the profess
+ ionals who support them.\n\nThis event is co-presented by the UC OSPO Netw
+ ork and UC Carpentries.\n\nThis workshop is free and participants can regi
+ ster for individual topics or the entire series. View the complete schedul
+ e and register.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17386215
+END:VEVENT
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17080330
+SEQUENCE:0
+DTSTAMP:20260902T232422Z
+DTSTART:20261006T190000Z
+DTEND:20261006T200000Z
+SUMMARY:UCLA Open Source Meetup: Keeping the World on Time
+LOCATION:Charles E. Young Research Library\, Data Science Center\, Room 11
+ 630L
+DESCRIPTION:Join colleagues from UCLA and across the University of Califor
+ nia for a hybrid lunch-hour conversation with UCLA Computer Science Teachi
+ ng Professor Paul Eggert\, primary coordinator of the public-domain Time Z
+ one Database (TZDB) and a longtime contributor to GNU software projects.\n
+ \nTZDB does far more than keep the clocks on our phones and computers accu
+ rate. It supports timestamps on documents and photographs\, preserves hist
+ orical time-zone information used by software\, and must respond when gove
+ rnments change their clocks with little warning.\n\nIn “Keeping the Worl
+ d on Time: Inside the Time Zone Database\,” Eggert will introduce this w
+ idely used but largely invisible infrastructure and discuss the technical\
+ , legal\, political and collaborative challenges involved in sustaining it
+ . The program will feature a 30–40-minute talk followed by an extended Q
+ &A and conversation with the audience.\n\nIn-person attendance is limited 
+ to 16 seats\, and advance registration is required. Bring your own lunch\;
+  light refreshments and beverages will be provided. Online participation w
+ ill also be available to members of the wider UC community.\n\nFeatured Sp
+ eaker: Prof. Paul Eggert\n\nPaul Eggert is the primary coordinator of the 
+ public-domain Time Zone Database (TZDB)\, which coordinates timestamps on 
+ computing devices worldwide\, and a copy of which surely resides on your s
+ martphone. He designed TZDB's naming standard and continues to manage its 
+ data and code amid technical\, legal\, and political challenges. Over the 
+ years he has also contributed to core free software projects\, including t
+ he GNU C Compiler\, C Library\, Coreutils\, Diffutils\, Gnulib\, and Emacs
+ \, and in 2022 he was given the Free Software Foundation Award for the Adv
+ ancement of Free Software. After a career in the software industry that in
+ cluded positions at the world's first independent computer software compan
+ y\, the world's then-second largest computer company\, and startups\, he j
+ oined the UCLA Computer Science Department\, where he is now a Teaching Pr
+ ofessor.\n\nWho Should Attend?\n\nThis event is open to students\, faculty
+ \, staff\, researchers\, librarians and technologists from UCLA and across
+  the UC system. All experience levels are welcome\, from people curious ab
+ out open source to active contributors and project maintainers.\n\nHosted 
+ by the UCLA OSPO in partnership with the UC Open Source Program Office (OS
+ PO) Network.\n\nLearn More About the Time Zone Database\n\nFor an accessib
+ le introduction to Eggert and his work\, read the UCLA Samueli profile “
+ Time Zone King: How One UCLA Computer Scientist Keeps Digital Clocks Ticki
+ ng.” You can also visit the official IANA Time Zone Database website or 
+ explore the TZDB source code and project documentation on GitHub.\n\nBring
+  your lunch and join the conversation. Light refreshments and beverages wi
+ ll be provided.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17080330
+END:VEVENT
+END:VCALENDAR
