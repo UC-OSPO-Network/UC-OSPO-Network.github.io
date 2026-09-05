@@ -6,7 +6,7 @@ X-WR-CALNAME:UC OSPO—UCLA
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385201
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260908T153000Z
 DTEND:20260908T193000Z
 SUMMARY:UC Carpentries: Tidy Data
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385235
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260909T153000Z
 DTEND:20260909T193000Z
 SUMMARY:UC Carpentries: Command Line & Unix Shell
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385291
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260910T153000Z
 DTEND:20260910T193000Z
 SUMMARY:UC Carpentries: Version Control with Git
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385215
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260911T153000Z
 DTEND:20260911T193000Z
 SUMMARY:UC Carpentries: Data Cleaning with OpenRefine
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385305
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260915T153000Z
 DTEND:20260915T193000Z
 SUMMARY:UC Carpentries: Python Part 1
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385595
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260915T153000Z
 DTEND:20260915T193000Z
 SUMMARY:UC Carpentries: R Part 1
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385319
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260916T153000Z
 DTEND:20260916T193000Z
 SUMMARY:UC Carpentries: Python Part 2
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17385971
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260916T153000Z
 DTEND:20260916T193000Z
 SUMMARY:UC Carpentries: R Part 2
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17386215
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20260923T153000Z
 DTEND:20260923T193000Z
 SUMMARY:UC Carpentries: Core Elements of Citable and Discoverable Research
@@ -128,12 +128,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17080330
 SEQUENCE:0
-DTSTAMP:20260904T160751Z
+DTSTAMP:20260905T013504Z
 DTSTART:20261006T190000Z
 DTEND:20261006T200000Z
 SUMMARY:UCLA Open Source Meetup: Keeping the World on Time
-LOCATION:Charles E. Young Research Library\, Data Science Center\, Room 11
- 630L
+LOCATION:Charles E. Young Research Library\, Room 11630L
 DESCRIPTION:Join colleagues from UCLA and across the University of Califor
  nia for a hybrid lunch-hour conversation with UCLA Computer Science Teachi
  ng Professor Paul Eggert\, primary coordinator of the public-domain Time Z
@@ -149,31 +148,31 @@ DESCRIPTION:Join colleagues from UCLA and across the University of Califor
  &A and conversation with the audience.\n\nIn-person attendance is limited 
  to 16 seats\, and advance registration is required. Bring your own lunch\;
   light refreshments and beverages will be provided. Online participation w
- ill also be available to members of the wider UC community.\n\nFeatured Sp
- eaker: Prof. Paul Eggert\n\nPaul Eggert is the primary coordinator of the 
- public-domain Time Zone Database (TZDB)\, which coordinates timestamps on 
- computing devices worldwide\, and a copy of which surely resides on your s
- martphone. He designed TZDB's naming standard and continues to manage its 
- data and code amid technical\, legal\, and political challenges. Over the 
- years he has also contributed to core free software projects\, including t
- he GNU C Compiler\, C Library\, Coreutils\, Diffutils\, Gnulib\, and Emacs
- \, and in 2022 he was given the Free Software Foundation Award for the Adv
- ancement of Free Software. After a career in the software industry that in
- cluded positions at the world's first independent computer software compan
- y\, the world's then-second largest computer company\, and startups\, he j
- oined the UCLA Computer Science Department\, where he is now a Teaching Pr
- ofessor.\n\nWho Should Attend?\n\nThis event is open to students\, faculty
- \, staff\, researchers\, librarians and technologists from UCLA and across
-  the UC system. All experience levels are welcome\, from people curious ab
- out open source to active contributors and project maintainers.\n\nHosted 
- by the UCLA OSPO in partnership with the UC Open Source Program Office (OS
- PO) Network.\n\nLearn More About the Time Zone Database\n\nFor an accessib
- le introduction to Eggert and his work\, read the UCLA Samueli profile “
- Time Zone King: How One UCLA Computer Scientist Keeps Digital Clocks Ticki
- ng.” You can also visit the official IANA Time Zone Database website or 
- explore the TZDB source code and project documentation on GitHub.\n\nBring
-  your lunch and join the conversation. Light refreshments and beverages wi
- ll be provided.
+ ill also be available to members of the wider UC community.\n\nWho Should 
+ Attend?\n\nThis event is open to students\, faculty\, staff\, researchers\
+ , librarians and technologists from UCLA and across the UC system. All exp
+ erience levels are welcome\, from people curious about open source to acti
+ ve contributors and project maintainers.\n\nHosted by the UCLA OSPO in par
+ tnership with the UC Open Source Program Office (OSPO) Network.\n\nLearn M
+ ore About the Time Zone Database\n\nFor an accessible introduction to Egge
+ rt and his work\, read the UCLA Samueli profile “Time Zone King: How One
+  UCLA Computer Scientist Keeps Digital Clocks Ticking.” You can also vis
+ it the official IANA Time Zone Database website or explore the TZDB source
+  code and project documentation on GitHub.\n\nBring your lunch and join th
+ e conversation. Light refreshments and beverages will be provided.\n\nFeat
+ ured Speaker: Prof. Paul Eggert\n\nPaul Eggert is the primary coordinator 
+ of the public-domain Time Zone Database (TZDB)\, which coordinates timesta
+ mps on computing devices worldwide\, and a copy of which surely resides on
+  your smartphone. He designed TZDB's naming standard and continues to mana
+ ge its data and code amid technical\, legal\, and political challenges. Ov
+ er the years he has also contributed to core free software projects\, incl
+ uding the GNU C Compiler\, C Library\, Coreutils\, Diffutils\, Gnulib\, an
+ d Emacs\, and in 2022 he was given the Free Software Foundation Award for 
+ the Advancement of Free Software. After a career in the software industry 
+ that included positions at the world's first independent computer software
+  company\, the world's then-second largest computer company\, and startups
+ \, he joined the UCLA Computer Science Department\, where he is now a Teac
+ hing Professor.
 URL;VALUE=URI:https://calendar.library.ucla.edu/event/17080330
 END:VEVENT
 END:VCALENDAR

@@ -3,4 +3,30 @@ VERSION:2.0
 PRODID:-//UC OSPO Network//events//EN
 NAME:UC OSPO—UC Santa Cruz
 X-WR-CALNAME:UC OSPO—UC Santa Cruz
+BEGIN:VEVENT
+UID:ucsc:https://ucsc-ospo.github.io/event/20261022-cruzcon/
+SEQUENCE:0
+DTSTAMP:20260905T013504Z
+DTSTART:20261022T170000Z
+SUMMARY:CruzCon: Open Source for Research & Innovation
+DESCRIPTION:CruzCon brings together UC researchers\, faculty\, students\, 
+ campus leadership\, and industry partners for a day exploring open source 
+ in research and innovation — hosted by the UC Santa Cruz Open Source Pro
+ gram Office (CROSS) and CITRIS at the Seymour Center\, UC Santa Cruz.\nEVE
+ NT IS BY INVITATION ONLY – REGISTRATION OPEN SOON\nAttendees are also in
+ vited to join the CROSS Annual Oktoberfest\, held immediately following th
+ e conference.\nSchedule [draft subject to change]\nThursday\, October 22\,
+  2026 · 10:00 AM – 5:00 PM\nTime\nSession\n\n\n\n\n10:00–10:20\nOpeni
+ ng Session\n\n\n10:20–11:20\nPanel 1: Open Source Ecosystems as a Pathwa
+ y to University Innovation\n\n\n11:20–11:50\nFireside Chat\n\n\n11:50–
+ 1:00\nLunch and Demos\n\n\n1:00–2:00\nPanel 2: Campus Infrastructure Sup
+ porting Open Source and Impact\n\n\n2:00–2:45\nKeynote\n\n\n2:45–3:00\
+ nBreak\n\n\n3:00–4:15\nClosing Discussion: Open Source Infrastructure\, 
+ Institutionalized\n\n\n4:15–4:30\nClosing Remarks\n\n\n5:00 onward\nCROS
+ S Annual Oktoberfest\n\n\n\n\n\nLogistics\nEvent Venue: Seymour Marine Dis
+ covery Center\, UC Santa Cruz \nParking: TODO\nAccessibility: TODO\nCode o
+ f Conduct\nAll participants are required to follow the UCSC OSPO Events Co
+ de of Conduct.
+URL;VALUE=URI:https://ucsc-ospo.github.io/event/20261022-cruzcon/
+END:VEVENT
 END:VCALENDAR
