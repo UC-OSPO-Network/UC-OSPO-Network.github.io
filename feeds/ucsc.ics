@@ -6,26 +6,27 @@ X-WR-CALNAME:UC OSPO—UC Santa Cruz
 BEGIN:VEVENT
 UID:ucsc:https://ucsc-ospo.github.io/event/20261022-cruzcon/
 SEQUENCE:0
-DTSTAMP:20260909T162146Z
+DTSTAMP:20260910T040837Z
 DTSTART:20261022T170000Z
 SUMMARY:CruzCon: Open Source for Research & Innovation
 DESCRIPTION:CruzCon brings together UC researchers\, faculty\, students\, 
  campus leadership\, and industry partners for a day exploring open source 
  in research and innovation — hosted by the UC Santa Cruz Open Source Pro
- gram Office (CROSS) and CITRIS at the Seymour Center\, UC Santa Cruz.\nReg
- istration Open\nAttendees are also invited to join the CROSS Annual Oktobe
- rfest\, held immediately following the conference.\nSchedule [draft subjec
- t to change]\nThursday\, October 22\, 2026 · 10:00 AM – 5:00 PM\nTime\n
- Session\n\n\n\n\n10:00–10:20\nOpening Session\n\n\n10:20–11:20\nPanel 
- 1: Open Source Ecosystems as a Pathway to University Innovation\n\n\n11:20
- –11:50\nFireside Chat\n\n\n11:50–1:00\nLunch and Demos\n\n\n1:00–2:0
- 0\nPanel 2: Campus Infrastructure Supporting Open Source and Impact\n\n\n2
- :00–2:45\nKeynote\n\n\n2:45–3:00\nBreak\n\n\n3:00–4:15\nClosing Disc
- ussion: Open Source Infrastructure\, Institutionalized\n\n\n4:15–4:30\nC
- losing Remarks\n\n\n5:00 onward\nCROSS Annual Oktoberfest\n\n\n\n\n\nLogis
- tics\nEvent Venue: Seymour Marine Discovery Center\, UC Santa Cruz\nCode o
- f Conduct\nAll participants are required to follow the UCSC OSPO Events Co
- de of Conduct.
+ gram Office (CROSS) and CITRIS and the Banatao Institute at the Seymour Ce
+ nter\, UC Santa Cruz.\nRegistration Open\nAttendees are also invited to jo
+ in the CROSS Annual Oktoberfest\, held immediately following the conferenc
+ e.\nSchedule [draft subject to change]\nThursday\, October 22\, 2026 · 10
+ :00 AM – 5:00 PM\nTime\nSession\n\n\n\n\n10:00–10:20\nOpening Session\
+ n\n\n10:20–11:35\nPanel 1: Open Source Ecosystems as a Pathway to Univer
+ sity Innovation\n\n\n11:35–11:50\nBreak\n\n\n11:50–12:30\nFireside Cha
+ t\n\n\n12:30–1:45\nLunch\n\n\n1:45–3:00\nPanel 2: Campus Infrastructur
+ e Supporting Open Source and Impact\n\n\n3:00–3:40\nKeynote - Kirstie Wh
+ itaker\, Berkeley Institute for Data Science (BIDS)\n\n\n3:40–4:00\nBrea
+ k\n\n\n4:00–5:00\nClosing Discussion: Open Source Infrastructure\, Insti
+ tutionalized\n\n\n5:00-5:15\nClosing Remarks\n\n\n5:15-7:30\nCROSS Annual 
+ Oktoberfest\n\n\n\n\n\nLogistics\nEvent Venue: Seymour Marine Discovery Ce
+ nter\, UC Santa Cruz\nCode of Conduct\nAll participants are required to fo
+ llow the UCSC OSPO Events Code of Conduct.
 URL;VALUE=URI:https://ucsc-ospo.github.io/event/20261022-cruzcon/
 END:VEVENT
 END:VCALENDAR
