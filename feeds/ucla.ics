@@ -4,35 +4,9 @@ PRODID:-//UC OSPO Network//events//EN
 NAME:UC OSPO—UCLA
 X-WR-CALNAME:UC OSPO—UCLA
 BEGIN:VEVENT
-UID:ucla:LibCal-7056-17385319
-SEQUENCE:0
-DTSTAMP:20260916T163559Z
-DTSTART:20260916T153000Z
-DTEND:20260916T193000Z
-SUMMARY:UC Carpentries: Python Part 2
-DESCRIPTION:Learn basic coding\, data access and data analysis functions u
- sing Jupyter Notebook.\n\nThis workshop is free\, and participants can reg
- ister for individual topics or the entire series. View the complete schedu
- le and register.
-URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385319
-END:VEVENT
-BEGIN:VEVENT
-UID:ucla:LibCal-7056-17385971
-SEQUENCE:0
-DTSTAMP:20260916T163559Z
-DTSTART:20260916T153000Z
-DTEND:20260916T193000Z
-SUMMARY:UC Carpentries: R Part 2
-DESCRIPTION:Learn basic coding\, data access\, and data analysis using R a
- nd RStudio.\n\nThis workshop is free\, and participants can register for i
- ndividual topics or the entire series. View the complete schedule and regi
- ster.
-URL;VALUE=URI:https://calendar.library.ucla.edu/event/17385971
-END:VEVENT
-BEGIN:VEVENT
 UID:ucla:LibCal-7056-17386215
 SEQUENCE:0
-DTSTAMP:20260916T163559Z
+DTSTAMP:20260916T204140Z
 DTSTART:20260923T153000Z
 DTEND:20260923T193000Z
 SUMMARY:UC Carpentries: Core Elements of Citable and Discoverable Research
@@ -51,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17080330
 SEQUENCE:0
-DTSTAMP:20260916T163559Z
+DTSTAMP:20260916T204140Z
 DTSTART:20261006T190000Z
 DTEND:20261006T200000Z
 SUMMARY:UCLA Open Source Meetup: Keeping the World on Time
