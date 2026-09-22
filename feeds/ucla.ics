@@ -6,7 +6,7 @@ X-WR-CALNAME:UC OSPO—UCLA
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17386215
 SEQUENCE:0
-DTSTAMP:20260921T194726Z
+DTSTAMP:20260922T014258Z
 DTSTART:20260923T153000Z
 DTEND:20260923T193000Z
 SUMMARY:UC Carpentries: Core Elements of Citable and Discoverable Research
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17080330
 SEQUENCE:0
-DTSTAMP:20260921T194726Z
+DTSTAMP:20260922T014258Z
 DTSTART:20261006T190000Z
 DTEND:20261006T200000Z
 SUMMARY:UCLA Open Source Meetup: Keeping the World on Time
@@ -42,34 +42,36 @@ DESCRIPTION:Join colleagues from UCLA and across the University of Califor
  idely used but largely invisible infrastructure and discuss the technical\
  , legal\, political and collaborative challenges involved in sustaining it
  . The program will feature a 30–40-minute talk followed by an extended Q
- &A and conversation with the audience.\n\nIn-person attendance is limited 
- to 16 seats\, and advance registration is required. Bring your own lunch\;
-  light refreshments and beverages will be provided. Online participation w
- ill also be available to members of the wider UC community.\n\nWho Should 
- Attend?\n\nThis event is open to students\, faculty\, staff\, researchers\
- , librarians and technologists from UCLA and across the UC system. All exp
- erience levels are welcome\, from people curious about open source to acti
- ve contributors and project maintainers.\n\nHosted by the UCLA OSPO in par
- tnership with the UC Open Source Program Office (OSPO) Network.\n\nLearn M
- ore About the Time Zone Database\n\nFor an accessible introduction to Egge
- rt and his work\, read the UCLA Samueli profile “Time Zone King: How One
-  UCLA Computer Scientist Keeps Digital Clocks Ticking.” You can also vis
- it the official IANA Time Zone Database website or explore the TZDB source
-  code and project documentation on GitHub.\n\nBring your lunch and join th
- e conversation. Light refreshments and beverages will be provided.\n\nFeat
- ured Speaker: Prof. Paul Eggert\n\nPaul Eggert is the primary coordinator 
- of the public-domain Time Zone Database (TZDB)\, which coordinates timesta
- mps on computing devices worldwide\, and a copy of which surely resides on
-  your smartphone. He designed TZDB's naming standard and continues to mana
- ge its data and code amid technical\, legal\, and political challenges. Ov
- er the years he has also contributed to core free software projects\, incl
- uding the GNU C Compiler\, C Library\, Coreutils\, Diffutils\, Gnulib\, an
- d Emacs\, and in 2022 he was given the Free Software Foundation Award for 
- the Advancement of Free Software. After a career in the software industry 
- that included positions at the world's first independent computer software
-  company\, the world's then-second largest computer company\, and startups
- \, he joined the UCLA Computer Science Department\, where he is now a Teac
- hing Professor.
+ &A and conversation with the audience.\n\nAttend In Person or Online\n\nTh
+ is is a hybrid event. Advance registration is required for both attendance
+  options. Choose In Person or Online when registering.\n\nIn person: Join 
+ us at the UCLA Library Data Science Center in Charles E. Young Research Li
+ brary\, Room 11630L. Seating is limited to 16 people. Bring your own lunch
+ \; light refreshments and beverages will be provided.\nOnline: Join the li
+ ve program and Q&A via Zoom from UCLA or another UC campus. Online registr
+ ants will receive the Zoom access information by email.\n\nFeatured Speake
+ r: Prof. Paul Eggert\n\nPaul Eggert is the primary coordinator of the publ
+ ic-domain Time Zone Database (TZDB)\, which coordinates timestamps on comp
+ uting devices worldwide\, and a copy of which surely resides on your smart
+ phone. He designed TZDB's naming standard and continues to manage its data
+  and code amid technical\, legal\, and political challenges. Over the year
+ s he has also contributed to core free software projects\, including the G
+ NU C Compiler\, C Library\, Coreutils\, Diffutils\, Gnulib\, and Emacs\, a
+ nd in 2022 he was given the Free Software Foundation Award for the Advance
+ ment of Free Software. After a career in the software industry that includ
+ ed positions at the world's first independent computer software company\, 
+ the world's then-second largest computer company\, and startups\, he joine
+ d the UCLA Computer Science Department\, where he is now a Teaching Profes
+ sor.\n\nWho Should Attend?\n\nThis event is open to students\, faculty\, s
+ taff\, researchers\, librarians and technologists from UCLA and across the
+  UC system. All experience levels are welcome\, from people curious about 
+ open source to active contributors and project maintainers.\n\nHosted by t
+ he UCLA OSPO in partnership with the UC Open Source Program Office (OSPO) 
+ Network.\n\nLearn More About the Time Zone Database\n\nFor an accessible i
+ ntroduction to Eggert and his work\, read the UCLA Samueli profile “Time
+  Zone King: How One UCLA Computer Scientist Keeps Digital Clocks Ticking.
+ ” You can also visit the official IANA Time Zone Database website or exp
+ lore the TZDB source code and project documentation on GitHub.
 URL;VALUE=URI:https://calendar.library.ucla.edu/event/17080330
 END:VEVENT
 END:VCALENDAR
