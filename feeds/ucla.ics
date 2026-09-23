@@ -4,28 +4,9 @@ PRODID:-//UC OSPO Network//events//EN
 NAME:UC OSPO—UCLA
 X-WR-CALNAME:UC OSPO—UCLA
 BEGIN:VEVENT
-UID:ucla:LibCal-7056-17386215
-SEQUENCE:0
-DTSTAMP:20260923T163619Z
-DTSTART:20260923T160000Z
-DTEND:20260923T190000Z
-SUMMARY:UC Carpentries: Core Elements of Citable and Discoverable Research
-  Software
-DESCRIPTION:Learn practical steps for making research software citable\, d
- iscoverable\, and reusable. Working in your browser with a GitHub reposito
- ry\, you will add an open-source license\, create a CITATION.cff file\, ma
- ke a versioned release with a DOI and improve project documentation and me
- tadata. This hands-on workshop is designed for researchers and the profess
- ionals who support them.\n\nThis event is co-presented by the UC OSPO Netw
- ork and UC Carpentries.\n\nThis workshop is free and participants can regi
- ster for individual topics or the entire series. View the complete schedul
- e and register.
-URL;VALUE=URI:https://calendar.library.ucla.edu/event/17386215
-END:VEVENT
-BEGIN:VEVENT
 UID:ucla:LibCal-7056-17080330
 SEQUENCE:0
-DTSTAMP:20260923T163619Z
+DTSTAMP:20260923T232754Z
 DTSTART:20261006T190000Z
 DTEND:20261006T200000Z
 SUMMARY:UCLA Open Source Meetup: Keeping the World on Time
