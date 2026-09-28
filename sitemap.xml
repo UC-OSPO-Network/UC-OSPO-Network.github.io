@@ -62,6 +62,12 @@
     <loc>http://localhost:3000/about/governance</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/about/governance/model</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about/governance/stewardship-summaries</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/about/guiding-themes</loc>
   </url>
   <url>
