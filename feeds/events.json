@@ -650,6 +650,19 @@
     "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
   },
   {
+    "id": "berkeley:20261209T213000Z-332378@events.berkeley.edu",
+    "title": "CDSS Data Discovery Fall Symposium",
+    "start": "2026-12-09T21:30:00.000Z",
+    "end": "2026-12-09T23:00:00.000Z",
+    "allDay": false,
+    "url": "https://events.berkeley.edu/live/events/332377-cdss-data-discovery-fall-symposium",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "The Gateway",
+    "description": "The Data Discovery Symposium features poster presentations from student researchers. Working with mentors across campus and industry, Data Discovery participants use their data skills to design analyses, build tools, and present solutions to real world challenges. All are welcome to join us for presentations, networking, and awards as we celebrate their work and contributions to the data research community. Time: 1:30 - 3:00 pm Awards will begin at 2:15 pm PST. Explore the CDSS Data Discovery Program: https://cdss.berkeley.edu/discovery",
+    "descriptionHtml": "The Data Discovery Symposium features poster presentations from student researchers. Working with mentors across campus and industry, Data Discovery participants use their data skills to design analyses, build tools, and present solutions to real world challenges. All are welcome to join us for presentations, networking, and awards as we celebrate their work and contributions to the data research community.  Time: 1:30 - 3:00 pm  Awards will begin at 2:15 pm PST.    Explore the CDSS Data Discovery Program: https://cdss.berkeley.edu/discovery"
+  },
+  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-12-10T21:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2026-12-11T05:00:00.000Z",
@@ -947,5 +960,18 @@
     "location": null,
     "description": "https://ucsb.zoom.us/j/87582153282\n\nThe UC OSPO Network Alignment Group Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Meetings are open to anyone in the UC open source community. Working-group delegates are asked to attend, and everyone else is welcome to join and listen in. Learn more at ucospo.net.\n \nAlignment Group running notes doc",
     "descriptionHtml": "<a href=\"https://ucsb.zoom.us/j/87582153282\" target=\"_blank\">https://ucsb.zoom.us/j/87582153282</a><br><br>The UC OSPO Network Alignment Group Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Meetings are open to anyone in the UC open source community. Working-group delegates are asked to attend, and everyone else is welcome to join and listen in. Learn more at <a href=\"http://ucospo.net\" target=\"_blank\">ucospo.net</a>.<br> <br><a href=\"https://docs.google.com/document/d/1lvn1scs_i78Xqzlg_RgX0zgD1TkNR8sXdahpfCsTuqk/edit?tab=t.0\">Alignment Group running notes doc</a>"
+  },
+  {
+    "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2027-01-28T21:00:00.000Z",
+    "title": "Office Hours (Thursdays)",
+    "start": "2027-01-29T05:00:00.000Z",
+    "end": "2027-01-29T05:30:00.000Z",
+    "allDay": false,
+    "url": "https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1",
+    "source": "network",
+    "sourceLabel": "UC OSPO Network",
+    "location": null,
+    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
+    "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
   }
 ]
