@@ -1,31 +1,5 @@
 [
   {
-    "id": "network:30g9s6703bhvace5266q24ejiq_R20260806T170000@google.com-2026-10-01T17:00:00.000Z",
-    "title": "All-Campus Virtual OSPO Meetup",
-    "start": "2026-10-01T17:00:00.000Z",
-    "end": "2026-10-01T18:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "For October UC Berkeley hosts speakers Liam Parker and Francois Lanusse to discuss [Lightcone Research](https://www.lightconeresearch.org), an open source initiative from UC Berkeley and CNRS aiming at \"AI-assisted science with rigor at its core.\" AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](https://astra-spec.org) and the [Lightcone CLI](https://docs.lightconeresearch.org/)—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?\nStudents, staff, faculty, researchers, and folks outside UC all welcome!\nRegister here: https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "descriptionHtml": "<p>For October UC Berkeley hosts speakers Liam Parker and Francois Lanusse to discuss [Lightcone Research](<a href=\"https://www.lightconeresearch.org),\">https://www.lightconeresearch.org),</a> an open source initiative from UC Berkeley and CNRS aiming at \"AI-assisted science with rigor at its core.\" AI is making more ambitious research questions tractable, and Lightcone builds the open source tools and standards—including the [ASTRA specification](<a href=\"https://astra-spec.org)\">https://astra-spec.org)</a> and the [Lightcone CLI](<a href=\"https://docs.lightconeresearch.org/)\">https://docs.lightconeresearch.org/)</a>—that turn that expanded reach into results other scientists can reproduce, inspect, and build on. Part of that is tracking provenance through agentic workflows: when lots of agents are making decisions at each stage of a scientific process, how do you go back afterwards and verify those decisions were sensible?</p><p><span>Students, staff, faculty, researchers, and folks outside UC all welcome!</span></p>Register here: <a href=\"https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1\" target=\"_blank\">https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1</a>"
-  },
-  {
-    "id": "berkeley:20261001T170000Z-323870@events.berkeley.edu",
-    "title": "OSPO All-Campus Virtual Meetup: Lightcone Research",
-    "start": "2026-10-01T17:00:00.000Z",
-    "end": "2026-10-01T18:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucospo.net/events/#all-campus-virtual-meetup-lightcone-research",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "Zoom",
-    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
-    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
-  },
-  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-10-01T20:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2026-10-02T03:00:00.000Z",
@@ -973,5 +947,18 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
+  },
+  {
+    "id": "ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2027-01-28T22:30:00.000Z",
+    "title": "Open Source Lounge",
+    "start": "2027-01-29T06:30:00.000Z",
+    "end": "2027-01-29T08:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ",
+    "source": "ucsb",
+    "sourceLabel": "UC Santa Barbara",
+    "location": null,
+    "description": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts library (Library room 1411, mountain side)\nZoom: https://ucsb.zoom.us/j/87889247304\nThursdays, 2:30-4:30pm",
+    "descriptionHtml": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.<br><br>In-person: Sara Miller McCune Arts library (Library room 1411, mountain side)<br>Zoom: <a href=\"https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&amp;sa=D&amp;source=calendar&amp;ust=1788292841470995&amp;usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ\" target=\"_blank\">https://ucsb.zoom.us/j/87889247304</a><br>Thursdays, 2:30-4:30pm"
   }
 ]
