@@ -921,5 +921,18 @@
     "location": null,
     "description": "https://ucsb.zoom.us/j/83628810634",
     "descriptionHtml": "<a href=\"https://ucsb.zoom.us/j/83628810634\">https://ucsb.zoom.us/j/83628810634</a>"
+  },
+  {
+    "id": "berkeley:20270204T180000Z-323875@events.berkeley.edu",
+    "title": "OSPO All-Campus Virtual Meetup: February",
+    "start": "2027-02-04T18:00:00.000Z",
+    "end": "2027-02-04T19:00:00.000Z",
+    "allDay": false,
+    "url": "https://ucospo.net/events/",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "Zoom",
+    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
+    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
   }
 ]
