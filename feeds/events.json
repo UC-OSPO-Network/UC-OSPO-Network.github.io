@@ -1,44 +1,5 @@
 [
   {
-    "id": "ucsb:4bm9i1alvfv8q302o0rc6vrcvc@google.com",
-    "title": "Open Source Lounge: Evening edition",
-    "start": "2026-10-09T01:00:00.000Z",
-    "end": "2026-10-09T02:30:00.000Z",
-    "allDay": false,
-    "url": "https://ltc.cc.gatech.edu/",
-    "source": "ucsb",
-    "sourceLabel": "UC Santa Barbara",
-    "location": "UCSB Library room 2509 and Zoom",
-    "description": "Come learn about what open source software/hardware is and how you can get involved. Featuring guest speakers with wisdom and resources for student hackers and tinkerers. Pizza will be served for in-person attendees who registered in advance.\n\nOur guest speaker for 10/8 is Alex Jenkins, Computer Engineering student at Georgia Tech and founder of the LibreTech Collective, a student organization dedicated to Free, Libre, & Open-Source software, hardware, and knowledge. (https://ltc.cc.gatech.edu/)\n\n>>> REGISTER HERE! <<<\nWhen: Thu. Oct. 8, 2026; 6pm-7:30pm\nWhere: UCSB Library room 2509 and Zoom\nWho: Students only (grad + undergrad)",
-    "descriptionHtml": "<p>Come learn about what open source software/hardware is and how you can get involved. Featuring guest speakers with wisdom and resources for student hackers and tinkerers. Pizza will be served for in-person attendees who registered in advance.</p><p><br>Our guest speaker for 10/8 is Alex Jenkins, Computer Engineering student at Georgia Tech and founder of the LibreTech Collective, a student organization dedicated to Free, Libre, &amp; Open-Source software, hardware, and knowledge. (<a href=\"https://ltc.cc.gatech.edu/\">https://ltc.cc.gatech.edu/</a>)</p><p><br></p><p>&gt;&gt;&gt; <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc9cOkCsx6K43LbGQSOoLgO8s96cFu7i3hqbAiNaCuJG9wXPQ/viewform?usp=dialog\"><u>REGISTER HERE!</u></a> &lt;&lt;&lt;</p><p><strong>When</strong>: Thu. Oct. 8, 2026; 6pm-7:30pm<br><strong>Where</strong>: UCSB Library room 2509 and Zoom<br><strong>Who</strong>: Students only (grad + undergrad)<br></p>"
-  },
-  {
-    "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-10-08T20:00:00.000Z",
-    "title": "Office Hours (Thursdays)",
-    "start": "2026-10-09T03:00:00.000Z",
-    "end": "2026-10-09T03:30:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
-    "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
-  },
-  {
-    "id": "ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-10-08T21:30:00.000Z",
-    "title": "Open Source Lounge",
-    "start": "2026-10-09T04:30:00.000Z",
-    "end": "2026-10-09T06:30:00.000Z",
-    "allDay": false,
-    "url": "https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ",
-    "source": "ucsb",
-    "sourceLabel": "UC Santa Barbara",
-    "location": null,
-    "description": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts library (Library room 1411, mountain side)\nZoom: https://ucsb.zoom.us/j/87889247304\nThursdays, 2:30-4:30pm",
-    "descriptionHtml": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.<br><br>In-person: Sara Miller McCune Arts library (Library room 1411, mountain side)<br>Zoom: <a href=\"https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&amp;sa=D&amp;source=calendar&amp;ust=1788292841470995&amp;usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ\" target=\"_blank\">https://ucsb.zoom.us/j/87889247304</a><br>Thursdays, 2:30-4:30pm"
-  },
-  {
     "id": "berkeley:20261009T191500Z-323160@events.berkeley.edu",
     "title": "Cultural Analytics Series: Maria Antoniak \"In the Garden of Forking Paths: Mapping and Making Sense of Storytelling at Scale\"",
     "start": "2026-10-09T19:15:00.000Z",
