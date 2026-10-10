@@ -1,31 +1,5 @@
 [
   {
-    "id": "berkeley:20261009T191500Z-323160@events.berkeley.edu",
-    "title": "Cultural Analytics Series: Maria Antoniak \"In the Garden of Forking Paths: Mapping and Making Sense of Storytelling at Scale\"",
-    "start": "2026-10-09T19:15:00.000Z",
-    "end": "2026-10-09T20:30:00.000Z",
-    "allDay": false,
-    "url": "https://www.ischool.berkeley.edu/events/2026/cultural-analytics-series-maria-antoniak",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "210 South Hall and online",
-    "description": null,
-    "descriptionHtml": null
-  },
-  {
-    "id": "berkeley:20261009T213000Z-323161@events.berkeley.edu",
-    "title": "Discussion with Maria Antoniak",
-    "start": "2026-10-09T21:30:00.000Z",
-    "end": "2026-10-09T23:30:00.000Z",
-    "allDay": false,
-    "url": "https://www.ischool.berkeley.edu/events/2026/discussion-maria-antoniak",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "AI Futures Lab, Downtown Berkeley",
-    "description": "An in-person, collaborative deep dive with Cultural Analytics speaker Maria Antoniak.",
-    "descriptionHtml": "<p>\n  An in-person, collaborative deep dive with Cultural Analytics speaker Maria Antoniak.\n</p>"
-  },
-  {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-10-13T17:00:00.000Z",
     "title": "Office Hours (Tuesdays)",
     "start": "2026-10-14T00:00:00.000Z",
