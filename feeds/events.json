@@ -1,18 +1,5 @@
 [
   {
-    "id": "network:62bcaqddjdua8t2qchic5ho2a7@google.com-2026-10-28T18:00:00.000Z",
-    "title": "OSPO Network Alignment Group Meeting",
-    "start": "2026-10-29T01:00:00.000Z",
-    "end": "2026-10-29T02:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucsb.zoom.us/j/87582153282",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "https://ucsb.zoom.us/j/87582153282\n\nThe UC OSPO Network Alignment Group Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Meetings are open to anyone in the UC open source community. Working-group delegates are asked to attend, and everyone else is welcome to join and listen in. Learn more at ucospo.net.\n \nAlignment Group running notes doc",
-    "descriptionHtml": "<a href=\"https://ucsb.zoom.us/j/87582153282\" target=\"_blank\">https://ucsb.zoom.us/j/87582153282</a><br><br>The UC OSPO Network Alignment Group Alignment Group brings together the chairs and delegates of the Network's Working Groups to coordinate cross-cutting work and keep the groups aligned as the Network's governance takes shape. Meetings are open to anyone in the UC open source community. Working-group delegates are asked to attend, and everyone else is welcome to join and listen in. Learn more at <a href=\"http://ucospo.net\" target=\"_blank\">ucospo.net</a>.<br> <br><a href=\"https://docs.google.com/document/d/1lvn1scs_i78Xqzlg_RgX0zgD1TkNR8sXdahpfCsTuqk/edit?tab=t.0\">Alignment Group running notes doc</a>"
-  },
-  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-10-29T20:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2026-10-30T03:00:00.000Z",
