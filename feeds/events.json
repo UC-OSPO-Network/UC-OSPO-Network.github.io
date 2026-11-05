@@ -1,31 +1,5 @@
 [
   {
-    "id": "network:30g9s6703bhvace5266q24ejiq_R20261105T180000@google.com-2026-11-05T18:00:00.000Z",
-    "title": "All-Campus Virtual OSPO Meetup",
-    "start": "2026-11-05T18:00:00.000Z",
-    "end": "2026-11-05T19:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, and Mike Cohen, Director of Innovation Ecosystem Development in UC Berkeley's TTO, join us to talk about what their offices actually do when a researcher wants to release code as open source, the worries researchers bring to them most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.\n\nGuest speakers:\n\n- Steven Tudor is Director of the TTO at UC Davis, where he leads the university’s intellectual property management and commercialization activities. His work focuses on helping researchers navigate intellectual property, licensing, and commercialization while supporting practical pathways for moving university innovations into broader use.\n- Mike Cohen is Director of Innovation Ecosystem Development in UC Berkeley's TTO, where he drives initiatives and license agreements that catalyze the commercialization of UC Berkeley innovations and support the funding of campus research. In 2019, he led the development of UC Berkeley's Open Source Software Startup (OS3) Good-Standing Program, which enables the university to obtain stock equity in startups that spin out of the university leveraging software developed at, and open-sourced by, the university.\nStudents, staff, faculty, researchers, and folks outside UC all welcome!\nRegister here: https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1",
-    "descriptionHtml": "<p>Thinking about open-sourcing your research software but unsure how to approach your Tech Transfer Office (TTO)? Steven Tudor, Director of the Technology Transfer Office at UC Davis, and Mike Cohen, Director of Innovation Ecosystem Development in UC Berkeley's TTO, join us to talk about what their offices actually do when a researcher wants to release code as open source, the worries researchers bring to them most often, and what information the TTO needs to help researchers make decisions. We'll also talk about how your campus OSPO can serve as a first stop on the way to tech transfer, so you can feel informed and confident when you meet with the TTO.<br><br>Guest speakers:<br><br>- Steven Tudor is Director of the TTO at UC Davis, where he leads the university’s intellectual property management and commercialization activities. His work focuses on helping researchers navigate intellectual property, licensing, and commercialization while supporting practical pathways for moving university innovations into broader use.<br>- Mike Cohen is Director of Innovation Ecosystem Development in UC Berkeley's TTO, where he drives initiatives and license agreements that catalyze the commercialization of UC Berkeley innovations and support the funding of campus research. In 2019, he led the development of UC Berkeley's <a href=\"https://ipira.berkeley.edu/open-source-software-startup-program\">Open Source Software Startup (OS3) Good-Standing Program</a><a href=\"https://ipira.berkeley.edu/open-source-software-startup-program),\">,</a> which enables the university to obtain stock equity in startups that spin out of the university leveraging software developed at, and open-sourced by, the university.</p><p><span>Students, staff, faculty, researchers, and folks outside UC all welcome!</span></p>Register here: <a href=\"https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1\" target=\"_blank\">https://ucdavis.zoom.us/j/98527182449?pwd=PMdoVaOTSYuAHqPVWQbYPGHOmGrb5o.1</a>"
-  },
-  {
-    "id": "berkeley:20261105T180000Z-323871@events.berkeley.edu",
-    "title": "OSPO All-Campus Virtual Meetup: November",
-    "start": "2026-11-05T18:00:00.000Z",
-    "end": "2026-11-05T19:00:00.000Z",
-    "allDay": false,
-    "url": "https://ucospo.net/events/",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "Zoom",
-    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development! At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events.",
-    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
-  },
-  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-11-05T21:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2026-11-06T05:00:00.000Z",
@@ -908,5 +882,18 @@
     "location": null,
     "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
     "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
+  },
+  {
+    "id": "ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2027-03-04T22:30:00.000Z",
+    "title": "Open Source Lounge",
+    "start": "2027-03-05T06:30:00.000Z",
+    "end": "2027-03-05T08:30:00.000Z",
+    "allDay": false,
+    "url": "https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ",
+    "source": "ucsb",
+    "sourceLabel": "UC Santa Barbara",
+    "location": null,
+    "description": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts library (Library room 1411, mountain side)\nZoom: https://ucsb.zoom.us/j/87889247304\nThursdays, 2:30-4:30pm",
+    "descriptionHtml": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.<br><br>In-person: Sara Miller McCune Arts library (Library room 1411, mountain side)<br>Zoom: <a href=\"https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&amp;sa=D&amp;source=calendar&amp;ust=1788292841470995&amp;usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ\" target=\"_blank\">https://ucsb.zoom.us/j/87889247304</a><br>Thursdays, 2:30-4:30pm"
   }
 ]
