@@ -1,31 +1,5 @@
 [
   {
-    "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-11-05T21:00:00.000Z",
-    "title": "Office Hours (Thursdays)",
-    "start": "2026-11-06T05:00:00.000Z",
-    "end": "2026-11-06T05:30:00.000Z",
-    "allDay": false,
-    "url": "https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1",
-    "source": "network",
-    "sourceLabel": "UC OSPO Network",
-    "location": null,
-    "description": "We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can: \n\n- Ask questions relating to OSS, your campus OSPO, or the OSPO network\n- Get help finding a project to work on, or getting more contributors for your own project\n- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks\n\nhttps://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\n\nMeeting ID: 952 7848 4683\nPasscode: 572078",
-    "descriptionHtml": "<span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks<br><br><a href=\"https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95615807258?pwd=excz2CXnwiwZDWyWkVIluDM749yJyO.1</a> <br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078 </span></span>"
-  },
-  {
-    "id": "ucsb:57u6n8pkf0qkk10ga7k7955d6a@google.com-2026-11-05T22:30:00.000Z",
-    "title": "Open Source Lounge",
-    "start": "2026-11-06T06:30:00.000Z",
-    "end": "2026-11-06T08:30:00.000Z",
-    "allDay": false,
-    "url": "https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&sa=D&source=calendar&ust=1788292841470995&usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ",
-    "source": "ucsb",
-    "sourceLabel": "UC Santa Barbara",
-    "location": null,
-    "description": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.\n\nIn-person: Sara Miller McCune Arts library (Library room 1411, mountain side)\nZoom: https://ucsb.zoom.us/j/87889247304\nThursdays, 2:30-4:30pm",
-    "descriptionHtml": "The Open Source Lounge is a co-working space for working on our open source goals in a supportive, motivating environment. This is a hybrid meeting open to students, faculty, and staff. Light refreshments are served for in-person attendees.<br><br>In-person: Sara Miller McCune Arts library (Library room 1411, mountain side)<br>Zoom: <a href=\"https://www.google.com/url?q=https://ucsb.zoom.us/j/87889247304&amp;sa=D&amp;source=calendar&amp;ust=1788292841470995&amp;usg=AOvVaw1ioYjTlQQbEcK9R0Yg6ydJ\" target=\"_blank\">https://ucsb.zoom.us/j/87889247304</a><br>Thursdays, 2:30-4:30pm"
-  },
-  {
     "id": "berkeley:20261109T201500Z-323164@events.berkeley.edu",
     "title": "Cultural Analytics Series: Meredith Martin & Wouter Haverals",
     "start": "2026-11-09T20:15:00.000Z",
@@ -50,6 +24,19 @@
     "location": "AI Futures Lab, Downtown Berkeley",
     "description": "An in-person, collaborative deep dive with Cultural Analytics speaker Mads Rosendahl Thomsen.",
     "descriptionHtml": "<p>\n  An in-person, collaborative deep dive with Cultural Analytics speaker Mads Rosendahl Thomsen.\n</p>"
+  },
+  {
+    "id": "berkeley:20261110T190000Z-337070@events.berkeley.edu",
+    "title": "BIDS Seminar with Sylvain Corlay and Jeremy Tuloup of QuantStack",
+    "start": "2026-11-10T19:00:00.000Z",
+    "end": "2026-11-10T20:00:00.000Z",
+    "allDay": false,
+    "url": "https://luma.com/gn1niud2",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "2300 Hearst Ave., Berkeley, CA 94720",
+    "description": "Please join us for a special event with Gaël Varoquaux (Probabl (https://probabl.ai/), scikit-learn (https://scikit-learn.org/stable/)), co-sponsored by BIDS, CDSS, and the Department of Statistics! Varoquaux will give a 30-minute talk, introduced by Fernando Pérez (https://bids.berkeley.edu/people/fernando-perez) (BIDS Faculty Director), followed by a panel discussion on AI in open source and open science (https://blog.probabl.ai/maintaining-open-source-age-of-gen-ai) with Varoquaux, Pérez, and moderator Jarrod Millman (https://bids.berkeley.edu/people/jarrod-millman). → To attend in person: Register on this page. → To attend online: Sign up here to receive a Zoom link (https://forms.gle/fKjzxbKFScfAMxks5).Abstract Scikit-learn is the industry standard for machine-learning. I will share how we are seamlessly evolving its functionality, making it easier to use, more powerful (e.g., with GPU support). Beyond exposing machine-learning algorithms, a value of scikit-learn is that it shapes a standard machine-learning API, central to data science. I will introduce complementary packages that build upon this API to push the agenda:skrub (https://skrub-data.org/stable/), bridging machine-learning and dataframe manipulation skore (https://probabl.ai/skore), to track and understand machine-learning work TabICL (https://arxiv.org/abs/2502.05564), an open model that implements tabular learning state of the art: table foundation models This work is spurred by Probabl and a broader community, and I'll explain our vision of sustainability for the ecosystem.",
+    "descriptionHtml": "Please join us for a special event with Gaël Varoquaux (Probabl (https://probabl.ai/), scikit-learn (https://scikit-learn.org/stable/)), co-sponsored by BIDS, CDSS, and the Department of Statistics!  Varoquaux will give a 30-minute talk, introduced by Fernando Pérez (https://bids.berkeley.edu/people/fernando-perez) (BIDS Faculty Director), followed by a panel discussion on AI in open source and open science (https://blog.probabl.ai/maintaining-open-source-age-of-gen-ai) with Varoquaux, Pérez, and moderator Jarrod Millman (https://bids.berkeley.edu/people/jarrod-millman).  → To attend in person: Register on this page.  → To attend online: Sign up here to receive a Zoom link (https://forms.gle/fKjzxbKFScfAMxks5).Abstract  Scikit-learn is the industry standard for machine-learning. I will share how we are seamlessly evolving its functionality, making it easier to use, more powerful (e.g., with GPU support).  Beyond exposing machine-learning algorithms, a value of scikit-learn is that it shapes a standard machine-learning API, central to data science. I will introduce complementary packages that build upon this API to push the agenda:skrub (https://skrub-data.org/stable/), bridging machine-learning and dataframe manipulation  skore (https://probabl.ai/skore), to track and understand machine-learning work  TabICL (https://arxiv.org/abs/2502.05564), an open model that implements tabular learning state of the art: table foundation models    This work is spurred by Probabl and a broader community, and I'll explain our vision of sustainability for the ecosystem."
   },
   {
     "id": "network:0jhep8kosjjat6hmjc6sdfim46@google.com-2026-11-10T18:00:00.000Z",
