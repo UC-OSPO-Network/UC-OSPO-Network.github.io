@@ -221,6 +221,19 @@
     "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development!  At our monthly live online discussion and knowledge exchanges, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated. Visit (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)the OSPO page (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo) for more OSPO info and events."
   },
   {
+    "id": "ucla:LibCal-7056-17946206",
+    "title": "UC OSPO All-Campus Virtual Meetup: Ten Years of Browser Nano Extensions   Show and Tell",
+    "start": "2026-12-03T18:00:00.000Z",
+    "end": "2026-12-03T19:00:00.000Z",
+    "allDay": false,
+    "url": "https://calendar.library.ucla.edu/event/17946206",
+    "source": "ucla",
+    "sourceLabel": "UCLA",
+    "location": "Online",
+    "description": "Join the UC OSPO Network for an all-campus virtual meetup featuring Neal Fultz, statistical consultant for UCLA Social Sciences, as he reflects on ten years of developing browser extensions. His interest began following the Anthem data breach, inspiring him to create a series of six nano extensions, each under 100 lines of code and compatible with Firefox and Chrome-based browsers.\n\nFultz will explore the motivations and development behind the extensions, and how the browser extension ecosystem differs from other open source communities. A Show and Tell follows the presentation.\n\nHosted by UCLA Library's Tim Dennis and Leigh Phan. Zoom meeting managed by the UC OSPO Network.\n\nRegistration is required.\n\nView upcoming UC OSPO Network events.",
+    "descriptionHtml": "Join the UC OSPO Network for an all-campus virtual meetup featuring Neal Fultz, statistical consultant for UCLA Social Sciences, as he reflects on ten years of developing browser extensions. His interest began following the Anthem data breach, inspiring him to create a series of six nano extensions, each under 100 lines of code and compatible with Firefox and Chrome-based browsers.\n\nFultz will explore the motivations and development behind the extensions, and how the browser extension ecosystem differs from other open source communities. A Show and Tell follows the presentation.\n\nHosted by UCLA Library's Tim Dennis and Leigh Phan. Zoom meeting managed by the UC OSPO Network.\n\nRegistration is required.\n\nView upcoming UC OSPO Network events."
+  },
+  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2026-12-03T21:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2026-12-04T05:00:00.000Z",

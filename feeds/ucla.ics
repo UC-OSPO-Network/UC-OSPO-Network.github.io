@@ -3,4 +3,26 @@ VERSION:2.0
 PRODID:-//UC OSPO Network//events//EN
 NAME:UC OSPO—UCLA
 X-WR-CALNAME:UC OSPO—UCLA
+BEGIN:VEVENT
+UID:ucla:LibCal-7056-17946206
+SEQUENCE:0
+DTSTAMP:20261106T190958Z
+DTSTART:20261203T180000Z
+DTEND:20261203T190000Z
+SUMMARY:UC OSPO All-Campus Virtual Meetup: Ten Years of Browser Nano Exten
+ sions   Show and Tell
+LOCATION:Online
+DESCRIPTION:Join the UC OSPO Network for an all-campus virtual meetup feat
+ uring Neal Fultz\, statistical consultant for UCLA Social Sciences\, as he
+  reflects on ten years of developing browser extensions. His interest bega
+ n following the Anthem data breach\, inspiring him to create a series of s
+ ix nano extensions\, each under 100 lines of code and compatible with Fire
+ fox and Chrome-based browsers.\n\nFultz will explore the motivations and d
+ evelopment behind the extensions\, and how the browser extension ecosystem
+  differs from other open source communities. A Show and Tell follows the p
+ resentation.\n\nHosted by UCLA Library's Tim Dennis and Leigh Phan. Zoom m
+ eeting managed by the UC OSPO Network.\n\nRegistration is required.\n\nVie
+ w upcoming UC OSPO Network events.
+URL;VALUE=URI:https://calendar.library.ucla.edu/event/17946206
+END:VEVENT
 END:VCALENDAR
