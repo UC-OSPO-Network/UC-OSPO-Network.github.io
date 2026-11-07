@@ -6,7 +6,7 @@ X-WR-CALNAME:UC OSPO—UC Berkeley (BIDS)
 BEGIN:VEVENT
 UID:berkeley:20261109T201500Z-323164@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20261109T201500Z
 DTEND:20261109T213000Z
 SUMMARY:Cultural Analytics Series: Meredith Martin & Wouter Haverals
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261109T223000Z-323165@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20261109T223000Z
 DTEND:20261110T003000Z
 SUMMARY:Discussion with Meredith Martin & Wouter Haverals
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261110T190000Z-337070@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20261110T190000Z
 DTEND:20261110T200000Z
 SUMMARY:BIDS Seminar with Sylvain Corlay and Jeremy Tuloup of QuantStack
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261119T230000Z-327532@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20261119T230000Z
 DTEND:20261120T010000Z
 SUMMARY:OSPO Monthly Meetup: November
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261203T180000Z-323872@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20261203T180000Z
 DTEND:20261203T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: December
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261209T213000Z-332378@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20261209T213000Z
 DTEND:20261209T230000Z
 SUMMARY:CDSS Data Discovery Fall Symposium
@@ -115,18 +115,17 @@ DESCRIPTION:The Data Discovery Symposium features poster presentations fro
  m student researchers. Working with mentors across campus and industry\, D
  ata Discovery participants use their data skills to design analyses\, buil
  d tools\, and present solutions to real world challenges. All are welcome 
- to join us for presentations\, networking\, awards\, and a keynote address
-  by CDSS Assistant Dean of Students\, Robbie Powers\, as we celebrate the 
- students' work and contributions to the data research community. Time: 1:3
- 0 - 3:00 pm Awards will begin at 2:15 pm PST. Explore the CDSS Data Discov
- ery Program: https://cdss.berkeley.edu/discovery
+ to join us for presentations\, networking\, and awards as we celebrate the
+  students' work and contributions to the data research community. Time: 1:
+ 30 - 3:00 pm Awards will begin at 2:15 pm PST. Explore the CDSS Data Disco
+ very Program: https://cdss.berkeley.edu/discovery
 URL;VALUE=URI:https://events.berkeley.edu/live/events/332377-cdss-data-dis
  covery-fall-symposium
 END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270107T180000Z-323874@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20270107T180000Z
 DTEND:20270107T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: January
@@ -144,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270204T180000Z-323875@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20270204T180000Z
 DTEND:20270204T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: February
@@ -162,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270304T180000Z-323876@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261106T190958Z
+DTSTAMP:20261107T053206Z
 DTSTART:20270304T180000Z
 DTEND:20270304T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: March
