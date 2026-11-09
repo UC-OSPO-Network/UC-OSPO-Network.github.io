@@ -1,18 +1,5 @@
 [
   {
-    "id": "berkeley:20261109T201500Z-323164@events.berkeley.edu",
-    "title": "Cultural Analytics Series: Meredith Martin & Wouter Haverals",
-    "start": "2026-11-09T20:15:00.000Z",
-    "end": "2026-11-09T21:30:00.000Z",
-    "allDay": false,
-    "url": "https://www.ischool.berkeley.edu/events/2026/cultural-analytics-series-meredith-martin-wouter-haverals",
-    "source": "berkeley",
-    "sourceLabel": "UC Berkeley (BIDS)",
-    "location": "210 South Hall and online",
-    "description": "Meredith Martin is a professor of English and faculty director of the Center for Digital Humanities at Princeton. Wouter Haverals is an associate research scholar at the Center for Digital Humanities and a Perkins Fellow at the Humanities Council at Princeton University.",
-    "descriptionHtml": "<p>\n  Meredith Martin is a professor of English and faculty director of the Center for Digital Humanities at Princeton. Wouter Haverals is an associate research scholar at the Center for Digital Humanities and a Perkins Fellow at the Humanities Council at Princeton University.\n</p>"
-  },
-  {
     "id": "berkeley:20261109T223000Z-323165@events.berkeley.edu",
     "title": "Discussion with Meredith Martin & Wouter Haverals",
     "start": "2026-11-09T22:30:00.000Z",
