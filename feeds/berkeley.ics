@@ -4,41 +4,9 @@ PRODID:-//UC OSPO Network//events//EN
 NAME:UC OSPO—UC Berkeley (BIDS)
 X-WR-CALNAME:UC OSPO—UC Berkeley (BIDS)
 BEGIN:VEVENT
-UID:berkeley:20261110T190000Z-337070@events.berkeley.edu
-SEQUENCE:0
-DTSTAMP:20261110T193218Z
-DTSTART:20261110T190000Z
-DTEND:20261110T200000Z
-SUMMARY:BIDS Seminar with Sylvain Corlay and Jeremy Tuloup of QuantStack
-LOCATION:2300 Hearst Ave.\, Berkeley\, CA 94720
-DESCRIPTION:Please join us for a special event with Gaël Varoquaux (Proba
- bl (https://probabl.ai/)\, scikit-learn (https://scikit-learn.org/stable/)
- )\, co-sponsored by BIDS\, CDSS\, and the Department of Statistics! Varoqu
- aux will give a 30-minute talk\, introduced by Fernando Pérez (https://bi
- ds.berkeley.edu/people/fernando-perez) (BIDS Faculty Director)\, followed 
- by a panel discussion on AI in open source and open science (https://blog.
- probabl.ai/maintaining-open-source-age-of-gen-ai) with Varoquaux\, Pérez\
- , and moderator Jarrod Millman (https://bids.berkeley.edu/people/jarrod-mi
- llman). → To attend in person: Register on this page. → To attend onli
- ne: Sign up here to receive a Zoom link (https://forms.gle/fKjzxbKFScfAMxk
- s5).Abstract Scikit-learn is the industry standard for machine-learning. I
-  will share how we are seamlessly evolving its functionality\, making it e
- asier to use\, more powerful (e.g.\, with GPU support). Beyond exposing ma
- chine-learning algorithms\, a value of scikit-learn is that it shapes a st
- andard machine-learning API\, central to data science. I will introduce co
- mplementary packages that build upon this API to push the agenda:skrub (ht
- tps://skrub-data.org/stable/)\, bridging machine-learning and dataframe ma
- nipulation skore (https://probabl.ai/skore)\, to track and understand mach
- ine-learning work TabICL (https://arxiv.org/abs/2502.05564)\, an open mode
- l that implements tabular learning state of the art: table foundation mode
- ls This work is spurred by Probabl and a broader community\, and I'll expl
- ain our vision of sustainability for the ecosystem.
-URL;VALUE=URI:https://luma.com/gn1niud2
-END:VEVENT
-BEGIN:VEVENT
 UID:berkeley:20261119T230000Z-327532@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261110T193218Z
+DTSTAMP:20261114T003014Z
 DTSTART:20261119T230000Z
 DTEND:20261120T010000Z
 SUMMARY:OSPO Monthly Meetup: Open science for the environment
@@ -63,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261203T180000Z-323872@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261110T193218Z
+DTSTAMP:20261114T003014Z
 DTSTART:20261203T180000Z
 DTEND:20261203T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: December
@@ -81,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261209T213000Z-332378@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261110T193218Z
+DTSTAMP:20261114T003014Z
 DTSTART:20261209T213000Z
 DTEND:20261209T230000Z
 SUMMARY:CDSS Data Discovery Fall Symposium
@@ -100,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270107T180000Z-323874@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261110T193218Z
+DTSTAMP:20261114T003014Z
 DTSTART:20270107T180000Z
 DTEND:20270107T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: January
@@ -118,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270204T180000Z-323875@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261110T193218Z
+DTSTAMP:20261114T003014Z
 DTSTART:20270204T180000Z
 DTEND:20270204T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: February
@@ -136,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270304T180000Z-323876@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261110T193218Z
+DTSTAMP:20261114T003014Z
 DTSTART:20270304T180000Z
 DTEND:20270304T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: March
