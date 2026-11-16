@@ -6,23 +6,25 @@ X-WR-CALNAME:UC OSPO—UCLA
 BEGIN:VEVENT
 UID:ucla:LibCal-7056-17946206
 SEQUENCE:0
-DTSTAMP:20261116T055244Z
+DTSTAMP:20261116T215134Z
 DTSTART:20261203T180000Z
 DTEND:20261203T190000Z
 SUMMARY:UC OSPO All-Campus Virtual Meetup: Ten Years of Browser Nano Exten
  sions   Show and Tell
 LOCATION:Online
-DESCRIPTION:Join the UC OSPO Network for an all-campus virtual meetup feat
- uring Neal Fultz\, statistical consultant for UCLA Social Sciences\, as he
-  reflects on ten years of developing browser extensions. His interest bega
- n following the Anthem data breach\, inspiring him to create a series of s
- ix nano extensions\, each under 100 lines of code and compatible with Fire
- fox and Chrome-based browsers.\n\nFultz will explore the motivations and d
- evelopment behind the extensions\, and how the browser extension ecosystem
-  differs from other open source communities. A Show and Tell follows the p
- resentation.\n\nHosted by UCLA Library's Tim Dennis and Leigh Phan. Zoom m
- eeting managed by the UC OSPO Network.\n\nRegistration is required.\n\nVie
- w all upcoming UC OSPO Network events.
+DESCRIPTION:Join the UC OSPO Network for an all-campus hybrid meetup featu
+ ring Neal Fultz\, statistical consultant for UCLA Social Sciences\, as he 
+ looks back on ten years of building browser extensions. It started after t
+ he Anthem data breach. The result is a set of six nano extensions\, each u
+ nder 100 lines of code\, that run in Firefox and Chrome-based browsers.\n\
+ nFultz will explain why he built them and how. He will also cover how the 
+ browser extension ecosystem differs from other open source communities. A 
+ Show and Tell follows the talk.\n\nThis event is hybrid. Choose one:\n\nIn
+  person: 11690L\, Young Research Library (YRL). No registration needed. Ju
+ st come.\nOn Zoom: register using the registration link. Registration is r
+ equired for Zoom only\n\nHosted by UCLA Library's Tim Dennis and Leigh Pha
+ n. Zoom meeting managed by the UC OSPO Network.\n\nView all upcoming UC OS
+ PO Network events.
 URL;VALUE=URI:https://calendar.library.ucla.edu/event/17946206
 END:VEVENT
 END:VCALENDAR
