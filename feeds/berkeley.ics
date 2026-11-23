@@ -6,7 +6,7 @@ X-WR-CALNAME:UC OSPO—UC Berkeley (BIDS)
 BEGIN:VEVENT
 UID:berkeley:20261203T180000Z-323872@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261123T065924Z
+DTSTAMP:20261123T234110Z
 DTSTART:20261203T180000Z
 DTEND:20261203T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: December
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20261209T213000Z-332378@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261123T065924Z
+DTSTAMP:20261123T234110Z
 DTSTART:20261209T213000Z
 DTEND:20261209T230000Z
 SUMMARY:CDSS Data Discovery Fall Symposium
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270107T180000Z-323874@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261123T065924Z
+DTSTAMP:20261123T234110Z
 DTSTART:20270107T180000Z
 DTEND:20270107T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: January
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berkeley:20270204T180000Z-323875@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261123T065924Z
+DTSTAMP:20261123T234110Z
 DTSTART:20270204T180000Z
 DTEND:20270204T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: February
@@ -77,9 +77,34 @@ DESCRIPTION:Join us in shaping the future of open source at UC Berkeley\,
 URL;VALUE=URI:https://ucospo.net/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:berkeley:20270218T230000Z-339357@events.berkeley.edu
+SEQUENCE:0
+DTSTAMP:20261123T234110Z
+DTSTART:20270218T230000Z
+DTEND:20270219T010000Z
+SUMMARY:OSPO Monthly Meetup: February
+LOCATION:Gateway Building\, Social Kitchen\, Room 1420
+DESCRIPTION:Join us in shaping the future of open source at UC Berkeley\, 
+ building on its rich legacy of leadership in open source software developm
+ ent. There will be a fireside chat\, a Q&A session\, and community gatheri
+ ng time with drinks and snacks! → Attend in person: Register on this pag
+ e and join us at 3pm. → Attend online: Sign up here to receive a Zoom li
+ nk (https://forms.gle/fKjzxbKFScfAMxks5) and join us at 3:30pm. This month
+  we are cohosting with the Eric and Wendy Schmidt Center for Data Science 
+ for the Environment. Join us to explore open science in the context of ind
+ igenous data sovereignty\, the open infrastructure powering analyses in pa
+ rtnership with the National Park Service\, and how the team are integratin
+ g LLMs into their platforms. Together\, we can harness the collective inte
+ lligence and creativity of the global open source ecosystem to meaningfull
+ y transform how knowledge is created and shared.Check out the rest of the 
+ series (https://bids.berkeley.edu/programs-initiatives/open-source-program
+ -office-ospo)!
+URL;VALUE=URI:https://luma.com/71fkzhut
+END:VEVENT
+BEGIN:VEVENT
 UID:berkeley:20270304T180000Z-323876@events.berkeley.edu
 SEQUENCE:0
-DTSTAMP:20261123T065924Z
+DTSTAMP:20261123T234110Z
 DTSTART:20270304T180000Z
 DTEND:20270304T190000Z
 SUMMARY:OSPO All-Campus Virtual Meetup: March

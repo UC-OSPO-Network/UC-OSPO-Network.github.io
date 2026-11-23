@@ -611,6 +611,19 @@
     "descriptionHtml": "<span><br><br><span><span><span><span>We'd love to see you at our coworking sessions! These are casual, drop-in-if-feel-like it sessions where you can:</span></span> <br><br>- Ask<span> questions relating to OSS, your campus OSPO, or the OSPO network</span><br>- Get help finding a project to work on, or getting more contributors for your own project<br>- Or just have a dedicated time to work on your projects or to tackle those important-but-often-postponed admin tasks</span><br><br><a href=\"https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1\" target=\"_blank\">https://ucdavis.zoom.us/j/95278484683?pwd=9iHxiRLcMkdGXHoavyqiRj7JaM1fxK.1</a><br><br>Meeting ID: 952 7848 4683<br>Passcode: 572078</span></span>"
   },
   {
+    "id": "berkeley:20270218T230000Z-339357@events.berkeley.edu",
+    "title": "OSPO Monthly Meetup: February",
+    "start": "2027-02-18T23:00:00.000Z",
+    "end": "2027-02-19T01:00:00.000Z",
+    "allDay": false,
+    "url": "https://luma.com/71fkzhut",
+    "source": "berkeley",
+    "sourceLabel": "UC Berkeley (BIDS)",
+    "location": "Gateway Building, Social Kitchen, Room 1420",
+    "description": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&A session, and community gathering time with drinks and snacks! → Attend in person: Register on this page and join us at 3pm. → Attend online: Sign up here to receive a Zoom link (https://forms.gle/fKjzxbKFScfAMxks5) and join us at 3:30pm. This month we are cohosting with the Eric and Wendy Schmidt Center for Data Science for the Environment. Join us to explore open science in the context of indigenous data sovereignty, the open infrastructure powering analyses in partnership with the National Park Service, and how the team are integrating LLMs into their platforms. Together, we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and shared.Check out the rest of the series (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)!",
+    "descriptionHtml": "Join us in shaping the future of open source at UC Berkeley, building on its rich legacy of leadership in open source software development. There will be a fireside chat, a Q&amp;A session, and community gathering time with drinks and snacks!  → Attend in person: Register on this page and join us at 3pm.  → Attend online: Sign up here to receive a Zoom link (https://forms.gle/fKjzxbKFScfAMxks5) and join us at 3:30pm.  This month we are cohosting with the Eric and Wendy Schmidt Center for Data Science for the Environment. Join us to explore open science in the context of indigenous data sovereignty, the open infrastructure powering analyses in partnership with the National Park Service, and how the team are integrating LLMs into their platforms.  Together, we can harness the collective intelligence and creativity of the global open source ecosystem to meaningfully transform how knowledge is created and shared.Check out the rest of the series (https://bids.berkeley.edu/programs-initiatives/open-source-program-office-ospo)!"
+  },
+  {
     "id": "network:3ls5cg3asi39ok29726uo8iiu2@google.com-2027-02-18T21:00:00.000Z",
     "title": "Office Hours (Thursdays)",
     "start": "2027-02-19T05:00:00.000Z",
